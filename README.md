@@ -3,376 +3,876 @@ Your favorite sports teams in emoji
 
 ## Basketball
 
-### Atlanta nba-atl
-Default:
+### Atlanta Hawks (nba-atl)
+#### Default
 #### Alternates
 
-### Boston nba-bos
-Default: :four_leaf_clover:
+### Boston Celtics (nba-bos)
+#### Default
+:four_leaf_clover:
 #### Alternates
 
-### Brooklyn nba-bk
-Default:
+### Brooklyn Nets (nba-bk)
+#### Default
 #### Alternates
 
-### Charlotte nba-cha
-Default: :bee:
+### Charlotte Hornets (nba-cha)
+#### Default
+:bee:
 #### Alternates
 
-### Chicago nba-chi
-Default: :cow:
+### Chicago Bulls (nba-chi)
+#### Default
+:cow:
 #### Alternates
 
-### Cleveland nba-cle
-Default: :crossed_swords:
+### Cleveland Cavaliers (nba-cle)
+#### Default
+:crossed_swords:
 #### Alternates
 
-### Dallas nba-dal
-Default:
+### Dallas Mavericks (nba-dal)
+#### Default
 #### Alternates
 
-### Denver nba-den
-Default: :pick:
+### Denver Nuggets (nba-den)
+#### Default
+:pick:
 #### Alternates
 
-### Detroit nba-det
-Default:
+### Detroit Pistons (nba-det)
+#### Default
 #### Alternates
 
-### Golden State nba-gs
-Default:
+### Golden State Warriors (nba-gs)
+#### Default
 #### Alternates
 
-### Houston nba-hou
-Default: :rocket:
+### Houston Rockets (nba-hou)
+#### Default
+:rocket:
 #### Alternates
 
-### Indiana nba-ind
-Default: :footprints:
+### Indiana Pacers (nba-ind)
+#### Default
+:footprints:
 #### Alternates
 
-### L.A. Clippers nba-lac
-Default: :scissors:
+### L.A. Clippers Clippers (nba-lac)
+#### Default
+:scissors:
 #### Alternates
 
-### L.A. Lakers nba-lal
-Default:
+### L.A. Lakers Lakers (nba-lal)
+#### Default
 #### Alternates
 
-### Memphis nba-mem
-Default: :bear:
+### Memphis Grizzlies (nba-mem)
+#### Default
+:bear:
 #### Alternates
 
-### Miami nba-mia
-Default: :thermometer:
-#### Alternates :fire:,:hot_pepper:,:hotsprings:
+### Miami Heat (nba-mia)
+#### Default
+:thermometer:
+#### Alternates
+:fire:,:hot_pepper:,:hotsprings:
 
-### Milwaukee nba-mil
-Default:
+### Milwaukee Bucks (nba-mil)
+#### Default
 #### Alternates
 
-### Minnesota nba-min
-Default: :wolf:
+### Minnesota Timberwolves (nba-min)
+#### Default
+:wolf:
 #### Alternates
 
-### New Orleans nba-no
-Default: :fleur_de_lis:
+### New Orleans Pelicans (nba-no)
+#### Default
+:fleur_de_lis:
 #### Alternates
 
-### New York nba-ny
-Default:
+### New York Knicks (nba-ny)
+#### Default
 #### Alternates
 
-### Oklahoma City nba-okc
-Default: :thunder_cloud_and_rain:
+### Oklahoma City Thunder (nba-okc)
+#### Default
+:thunder_cloud_and_rain:
 #### Alternates
 
-### Orlando nba-orl
-Default:
+### Orlando Magic (nba-orl)
+#### Default
 #### Alternates
 
-### Philadelphia nba-phi
-Default:
+### Philadelphia 76ers (nba-phi)
+#### Default
 #### Alternates
 
-### Phoenix nba-pho
-Default: :sunny:
+### Phoenix Suns (nba-pho)
+#### Default
+:sunny:
 #### Alternates
 
-### Portland nba-por
-Default: :mountain_bicyclist:
+### Portland Trail Blazers (nba-por)
+#### Default
+:mountain_bicyclist:
 #### Alternates
 
-### Sacramento nba-sac
-Default: :crown:
+### Sacramento Kings (nba-sac)
+#### Default
+:crown:
 #### Alternates
 
-### San Antonio nba-sa
-Default:
+### San Antonio Spurs (nba-sa)
+#### Default
 #### Alternates
 
-### Toronto nba-tor
-Default: :dragon:
+### Toronto Raptors (nba-tor)
+#### Default
+:dragon:
 #### Alternates
 
-### Utah nba-uta
-Default: :saxophone:
+### Utah Jazz (nba-uta)
+#### Default
+:saxophone:
 #### Alternates
 
-### Washington nba-was
-Default:
+### Washington Wizards (nba-was)
+#### Default
 #### Alternates
 
 
 ## Football
 
-### Arizona nfl-ari
-Default: :cactus:
+### Arizona Cardinals (nfl-ari)
+#### Default
+:cactus:
 #### Alternates
 
-### Atlanta nfl-atl
-Default:
+### Atlanta Falcons (nfl-atl)
+#### Default
 #### Alternates
 
-### Baltimore nfl-bal
-Default:
+### Baltimore Ravens (nfl-bal)
+#### Default
 #### Alternates
 
-### Buffalo nfl-buf
-Default: :water_buffalo:
+### Buffalo Bills (nfl-buf)
+#### Default
+:water_buffalo:
 #### Alternates
 
-### Carolina nfl-car
-Default:
+### Carolina Panthers (nfl-car)
+#### Default
 #### Alternates
 
-### Chicago nfl-chi
-Default: :bear:
+### Chicago Bears (nfl-chi)
+#### Default
+:bear:
 #### Alternates
 
-### Cincinnati nfl-cin
-Default:
+### Cincinnati Bengals (nfl-cin)
+#### Default
 #### Alternates
 
-### Cleveland nfl-cle
-Default: :poop:
+### Cleveland Browns (nfl-cle)
+#### Default
+:poop:
 #### Alternates
 
-### Dallas nfl-dal
-Default: :cow:
+### Dallas Cowboys (nfl-dal)
+#### Default
+:cow:
 #### Alternates
 
-### Denver nfl-den
-Default: :horse_racing:
+### Denver Broncos (nfl-den)
+#### Default
+:horse_racing:
 #### Alternates
 
-### Detroit nfl-det
-Default: :lion_face:
+### Detroit Lions (nfl-det)
+#### Default
+:lion_face:
 #### Alternates
 
-### Green Bay nfl-gb
-Default: :cheese_wedge:
+### Green Bay Packers (nfl-gb)
+#### Default
+:cheese_wedge:
 #### Alternates
 
-### Houston nfl-hou
-Default:
+### Houston Texans (nfl-hou)
+#### Default
 #### Alternates
 
-### Indianapolis nfl-ind
-Default: :horse:
+### Indianapolis Colts (nfl-ind)
+#### Default
+:horse:
 #### Alternates
 
-### Jacksonville nfl-jac
-Default:
+### Jacksonville Jaguars (nfl-jac)
+#### Default
 #### Alternates
 
-### Kansas City nfl-kc
-Default: :bow_and_arrow:
+### Kansas City Chiefs (nfl-kc)
+#### Default
+:bow_and_arrow:
 #### Alternates
 
-### Miami nfl-mia
-Default: :dolphin:
+### Miami Dolphins (nfl-mia)
+#### Default
+:dolphin:
 #### Alternates
 
-### Minnesota nfl-min
-Default: rowboat:
+### Minnesota Vikings (nfl-min)
+#### Default
+rowboat:
 #### Alternates
 
-### N.Y. Giants nfl-nyg
-Default: :mushroom:
+### N.Y. Giants Giants (nfl-nyg)
+#### Default
+:mushroom:
 #### Alternates
 
-### N.Y. Jets nfl-nyj
-Default: :airplane:
+### N.Y. Jets Jets (nfl-nyj)
+#### Default
+:airplane:
 #### Alternates
 
-### New England nfl-ne
-Default:
+### New England Patriots (nfl-ne)
+#### Default
 #### Alternates
 
-### New Orleans nfl-no
-Default: :fleur_de_lis:
+### New Orleans Saints (nfl-no)
+#### Default
+:fleur_de_lis:
 #### Alternates
 
-### Oakland nfl-oak
-Default: :skull_and_crossbones:
+### Oakland Raiders (nfl-oak)
+#### Default
+:skull_and_crossbones:
 #### Alternates
 
-### Philadelphia nfl-phi
-Default:
+### Philadelphia Eagles (nfl-phi)
+#### Default
 #### Alternates
 
-### Pittsburgh nfl-pit
-Default:
+### Pittsburgh Steelers (nfl-pit)
+#### Default
 #### Alternates
 
-### San Diego nfl-sd
-Default: :zap:
-#### Alternates :battery:,:electric_plug:
+### San Diego Chargers (nfl-sd)
+#### Default
+:zap:
+#### Alternates
+:battery:,:electric_plug:
 
-### San Francisco nfl-sf
-Default: :pick:
+### San Francisco 49ers (nfl-sf)
+#### Default
+:pick:
 #### Alternates
 
-### Seattle nfl-sea
-Default: :ocean:
+### Seattle Seahawks (nfl-sea)
+#### Default
+:ocean:
 #### Alternates
 
-### St. Louis nfl-stl
-Default: :ram:
+### St. Louis Rams (nfl-stl)
+#### Default
+:ram:
 #### Alternates
 
-### Tampa Bay nfl-tb
-Default: :crossed_swords:
+### Tampa Bay Buccaneers (nfl-tb)
+#### Default
+:crossed_swords:
 #### Alternates
 
-### Tennessee nfl-ten
-Default:
+### Tennessee Titans (nfl-ten)
+#### Default
 #### Alternates
 
-### Washington nfl-was
-Default:
+### Washington Redskins (nfl-was)
+#### Default
 #### Alternates
 
 
 ## Hockey
 
-### Anaheim nhl-ana
-Default:
+### Anaheim Ducks (nhl-ana)
+#### Default
 #### Alternates
 
-### Arizona nhl-ari
-Default: :wolf:
+### Arizona Coyotes (nhl-ari)
+#### Default
+:wolf:
 #### Alternates
 
-### Boston nhl-bos
-Default: :bear:
+### Boston Bruins (nhl-bos)
+#### Default
+:bear:
 #### Alternates
 
-### Buffalo nhl-buf
-Default: :crossed_swords:
+### Buffalo Sabres (nhl-buf)
+#### Default
+:crossed_swords:
 #### Alternates
 
-### Calgary nhl-cal
-Default: :fire:
+### Calgary Flames (nhl-cal)
+#### Default
+:fire:
 #### Alternates
 
-### Carolina nhl-car
-Default: :cyclone:
+### Carolina Hurricanes (nhl-car)
+#### Default
+:cyclone:
 #### Alternates
 
-### Chicago nhl-chi
-Default:
+### Chicago Blackhawks (nhl-chi)
+#### Default
 #### Alternates
 
-### Colorado nhl-col
-Default: :snow_capped_mountain:
+### Colorado Avalanche (nhl-col)
+#### Default
+:snow_capped_mountain:
 #### Alternates
 
-### Columbus nhl-clb
-Default: :bee:
+### Columbus Blue Jackets (nhl-clb)
+#### Default
+:bee:
 #### Alternates
 
-### Dallas nhl-dal
-Default: :star:
+### Dallas Stars (nhl-dal)
+#### Default
+:star:
 #### Alternates
 
-### Detroit nhl-det
-Default: :red_car:
+### Detroit Red Wings (nhl-det)
+#### Default
+:red_car:
 #### Alternates
 
-### Edmonton nhl-edm
-Default: :oil_drum:
-#### Alternates :fuelpump:
+### Edmonton Oilers (nhl-edm)
+#### Default
+:oil_drum:
+#### Alternates
+:fuelpump:
 
-### Florida nhl-fla
-Default:
+### Florida Panthers (nhl-fla)
+#### Default
 #### Alternates
 
-### Los Angeles nhl-la
-Default: :crown:
+### Los Angeles Kings (nhl-la)
+#### Default
+:crown:
 #### Alternates
 
-### Minnesota nhl-min
-Default:
+### Minnesota Wild (nhl-min)
+#### Default
 #### Alternates
 
-### Montreal nhl-mon
-Default: :flag-ca:
+### Montreal Canadiens (nhl-mon)
+#### Default
+:flag-ca:
 #### Alternates
 
-### NY Islanders nhl-nyi
-Default: :desert_island:
+### NY Islanders Islanders (nhl-nyi)
+#### Default
+:desert_island:
 #### Alternates
 
-### NY Rangers nhl-nyr
-Default:
+### NY Rangers Rangers (nhl-nyr)
+#### Default
 #### Alternates
 
-### Nashville nhl-nas
-Default:
+### Nashville Predators (nhl-nas)
+#### Default
 #### Alternates
 
-### New Jersey nhl-nj
-Default: :smiling_imp:
+### New Jersey Devils (nhl-nj)
+#### Default
+:smiling_imp:
 #### Alternates
 
-### Ottawa nhl-ott
-Default:
+### Ottawa Senators (nhl-ott)
+#### Default
 #### Alternates
 
-### Philadelphia nhl-phi
-Default:
+### Philadelphia Flyers (nhl-phi)
+#### Default
 #### Alternates
 
-### Pittsburgh nhl-pit
-Default: :penguin:
+### Pittsburgh Penguins (nhl-pit)
+#### Default
+:penguin:
 #### Alternates
 
-### San Jose nhl-sj
-Default:
+### San Jose Sharks (nhl-sj)
+#### Default
 #### Alternates
 
-### St. Louis nhl-stl
-Default: :saxophone:
+### St. Louis Blues (nhl-stl)
+#### Default
+:saxophone:
 #### Alternates
 
-### Tampa Bay nhl-tb
-Default: :zap:
+### Tampa Bay Lightning (nhl-tb)
+#### Default
+:zap:
 #### Alternates
 
-### Toronto nhl-tor
-Default: :maple_leaf:
+### Toronto Maple Leafs (nhl-tor)
+#### Default
+:maple_leaf:
 #### Alternates
 
-### Vancouver nhl-van
-Default:
+### Vancouver Canucks (nhl-van)
+#### Default
 #### Alternates
 
-### Washington nhl-was
-Default:
+### Washington Capitals (nhl-was)
+#### Default
 #### Alternates
 
-### Winnipeg nhl-win
-Default: :airplane:
+### Winnipeg Jets (nhl-win)
+#### Default
+:airplane:
+#### Alternates
+
+
+teamoji master % bin/list
+## Basketball
+
+### Atlanta Hawks (nba-atl)
+#### Default
+#### Alternates
+
+### Boston Celtics (nba-bos)
+#### Default
+:four_leaf_clover:
+#### Alternates
+
+### Brooklyn Nets (nba-bk)
+#### Default
+#### Alternates
+
+### Charlotte Hornets (nba-cha)
+#### Default
+:bee:
+#### Alternates
+
+### Chicago Bulls (nba-chi)
+#### Default
+:cow:
+#### Alternates
+
+### Cleveland Cavaliers (nba-cle)
+#### Default
+:crossed_swords:
+#### Alternates
+
+### Dallas Mavericks (nba-dal)
+#### Default
+#### Alternates
+
+### Denver Nuggets (nba-den)
+#### Default
+:pick:
+#### Alternates
+
+### Detroit Pistons (nba-det)
+#### Default
+#### Alternates
+
+### Golden State Warriors (nba-gs)
+#### Default
+#### Alternates
+
+### Houston Rockets (nba-hou)
+#### Default
+:rocket:
+#### Alternates
+
+### Indiana Pacers (nba-ind)
+#### Default
+:footprints:
+#### Alternates
+
+### L.A. Clippers Clippers (nba-lac)
+#### Default
+:scissors:
+#### Alternates
+
+### L.A. Lakers Lakers (nba-lal)
+#### Default
+#### Alternates
+
+### Memphis Grizzlies (nba-mem)
+#### Default
+:bear:
+#### Alternates
+
+### Miami Heat (nba-mia)
+#### Default
+:thermometer:
+#### Alternates
+:fire: :hot_pepper: :hotsprings:
+
+### Milwaukee Bucks (nba-mil)
+#### Default
+#### Alternates
+
+### Minnesota Timberwolves (nba-min)
+#### Default
+:wolf:
+#### Alternates
+
+### New Orleans Pelicans (nba-no)
+#### Default
+:fleur_de_lis:
+#### Alternates
+
+### New York Knicks (nba-ny)
+#### Default
+#### Alternates
+
+### Oklahoma City Thunder (nba-okc)
+#### Default
+:thunder_cloud_and_rain:
+#### Alternates
+
+### Orlando Magic (nba-orl)
+#### Default
+#### Alternates
+
+### Philadelphia 76ers (nba-phi)
+#### Default
+#### Alternates
+
+### Phoenix Suns (nba-pho)
+#### Default
+:sunny:
+#### Alternates
+
+### Portland Trail Blazers (nba-por)
+#### Default
+:mountain_bicyclist:
+#### Alternates
+
+### Sacramento Kings (nba-sac)
+#### Default
+:crown:
+#### Alternates
+
+### San Antonio Spurs (nba-sa)
+#### Default
+#### Alternates
+
+### Toronto Raptors (nba-tor)
+#### Default
+:dragon:
+#### Alternates
+
+### Utah Jazz (nba-uta)
+#### Default
+:saxophone:
+#### Alternates
+
+### Washington Wizards (nba-was)
+#### Default
+#### Alternates
+
+
+## Football
+
+### Arizona Cardinals (nfl-ari)
+#### Default
+:cactus:
+#### Alternates
+
+### Atlanta Falcons (nfl-atl)
+#### Default
+#### Alternates
+
+### Baltimore Ravens (nfl-bal)
+#### Default
+#### Alternates
+
+### Buffalo Bills (nfl-buf)
+#### Default
+:water_buffalo:
+#### Alternates
+
+### Carolina Panthers (nfl-car)
+#### Default
+#### Alternates
+
+### Chicago Bears (nfl-chi)
+#### Default
+:bear:
+#### Alternates
+
+### Cincinnati Bengals (nfl-cin)
+#### Default
+#### Alternates
+
+### Cleveland Browns (nfl-cle)
+#### Default
+:poop:
+#### Alternates
+
+### Dallas Cowboys (nfl-dal)
+#### Default
+:cow:
+#### Alternates
+
+### Denver Broncos (nfl-den)
+#### Default
+:horse_racing:
+#### Alternates
+
+### Detroit Lions (nfl-det)
+#### Default
+:lion_face:
+#### Alternates
+
+### Green Bay Packers (nfl-gb)
+#### Default
+:cheese_wedge:
+#### Alternates
+
+### Houston Texans (nfl-hou)
+#### Default
+#### Alternates
+
+### Indianapolis Colts (nfl-ind)
+#### Default
+:horse:
+#### Alternates
+
+### Jacksonville Jaguars (nfl-jac)
+#### Default
+#### Alternates
+
+### Kansas City Chiefs (nfl-kc)
+#### Default
+:bow_and_arrow:
+#### Alternates
+
+### Miami Dolphins (nfl-mia)
+#### Default
+:dolphin:
+#### Alternates
+
+### Minnesota Vikings (nfl-min)
+#### Default
+rowboat:
+#### Alternates
+
+### N.Y. Giants Giants (nfl-nyg)
+#### Default
+:mushroom:
+#### Alternates
+
+### N.Y. Jets Jets (nfl-nyj)
+#### Default
+:airplane:
+#### Alternates
+
+### New England Patriots (nfl-ne)
+#### Default
+#### Alternates
+
+### New Orleans Saints (nfl-no)
+#### Default
+:fleur_de_lis:
+#### Alternates
+
+### Oakland Raiders (nfl-oak)
+#### Default
+:skull_and_crossbones:
+#### Alternates
+
+### Philadelphia Eagles (nfl-phi)
+#### Default
+#### Alternates
+
+### Pittsburgh Steelers (nfl-pit)
+#### Default
+#### Alternates
+
+### San Diego Chargers (nfl-sd)
+#### Default
+:zap:
+#### Alternates
+:battery: :electric_plug:
+
+### San Francisco 49ers (nfl-sf)
+#### Default
+:pick:
+#### Alternates
+
+### Seattle Seahawks (nfl-sea)
+#### Default
+:ocean:
+#### Alternates
+
+### St. Louis Rams (nfl-stl)
+#### Default
+:ram:
+#### Alternates
+
+### Tampa Bay Buccaneers (nfl-tb)
+#### Default
+:crossed_swords:
+#### Alternates
+
+### Tennessee Titans (nfl-ten)
+#### Default
+#### Alternates
+
+### Washington Redskins (nfl-was)
+#### Default
+#### Alternates
+
+
+## Hockey
+
+### Anaheim Ducks (nhl-ana)
+#### Default
+#### Alternates
+
+### Arizona Coyotes (nhl-ari)
+#### Default
+:wolf:
+#### Alternates
+
+### Boston Bruins (nhl-bos)
+#### Default
+:bear:
+#### Alternates
+
+### Buffalo Sabres (nhl-buf)
+#### Default
+:crossed_swords:
+#### Alternates
+
+### Calgary Flames (nhl-cal)
+#### Default
+:fire:
+#### Alternates
+
+### Carolina Hurricanes (nhl-car)
+#### Default
+:cyclone:
+#### Alternates
+
+### Chicago Blackhawks (nhl-chi)
+#### Default
+#### Alternates
+
+### Colorado Avalanche (nhl-col)
+#### Default
+:snow_capped_mountain:
+#### Alternates
+
+### Columbus Blue Jackets (nhl-clb)
+#### Default
+:bee:
+#### Alternates
+
+### Dallas Stars (nhl-dal)
+#### Default
+:star:
+#### Alternates
+
+### Detroit Red Wings (nhl-det)
+#### Default
+:red_car:
+#### Alternates
+
+### Edmonton Oilers (nhl-edm)
+#### Default
+:oil_drum:
+#### Alternates
+:fuelpump:
+
+### Florida Panthers (nhl-fla)
+#### Default
+#### Alternates
+
+### Los Angeles Kings (nhl-la)
+#### Default
+:crown:
+#### Alternates
+
+### Minnesota Wild (nhl-min)
+#### Default
+#### Alternates
+
+### Montreal Canadiens (nhl-mon)
+#### Default
+:flag-ca:
+#### Alternates
+
+### NY Islanders Islanders (nhl-nyi)
+#### Default
+:desert_island:
+#### Alternates
+
+### NY Rangers Rangers (nhl-nyr)
+#### Default
+#### Alternates
+
+### Nashville Predators (nhl-nas)
+#### Default
+#### Alternates
+
+### New Jersey Devils (nhl-nj)
+#### Default
+:smiling_imp:
+#### Alternates
+
+### Ottawa Senators (nhl-ott)
+#### Default
+#### Alternates
+
+### Philadelphia Flyers (nhl-phi)
+#### Default
+#### Alternates
+
+### Pittsburgh Penguins (nhl-pit)
+#### Default
+:penguin:
+#### Alternates
+
+### San Jose Sharks (nhl-sj)
+#### Default
+#### Alternates
+
+### St. Louis Blues (nhl-stl)
+#### Default
+:saxophone:
+#### Alternates
+
+### Tampa Bay Lightning (nhl-tb)
+#### Default
+:zap:
+#### Alternates
+
+### Toronto Maple Leafs (nhl-tor)
+#### Default
+:maple_leaf:
+#### Alternates
+
+### Vancouver Canucks (nhl-van)
+#### Default
+#### Alternates
+
+### Washington Capitals (nhl-was)
+#### Default
+#### Alternates
+
+### Winnipeg Jets (nhl-win)
+#### Default
+:airplane:
 #### Alternates
