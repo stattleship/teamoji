@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+
+require 'JSON'
+
+
+json = JSON.parse(File.read('teamoji.json'))['teamoji']
+
+
+json.each do |sport|
+  puts sport['sport'].capitalize
+
+  puts
+
+  sport['teams'].each do |team|
+    puts "#{team['name']} #{team['slug']} #{team['emoji']}"
+  end
+
+  puts
+
+end
+
+
