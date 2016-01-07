@@ -12,7 +12,10 @@ json.each do |sport|
   puts
 
   sport['teams'].each do |team|
-    puts "#{team['name']} #{team['slug']} #{team['emoji']}"
+    puts "#{team['name']} #{team['slug']}"
+    puts "Default #{team['emoji']['default']}"
+    puts "alternates #{team['emoji']['alternates'].join(',')}"
+    puts
   end
 
   puts

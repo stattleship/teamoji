@@ -6,7 +6,10 @@
       "teams": [
         {
           "abbreviation": "ATL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Atlanta",
           "name": "Atlanta",
@@ -19,7 +22,10 @@
         },
         {
           "abbreviation": "BOS",
-          "emoji": ":four_leaf_clover:",
+          "emoji": {
+            "default": ":four_leaf_clover:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Boston",
           "name": "Boston",
@@ -32,7 +38,10 @@
         },
         {
           "abbreviation": "BK",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Brooklyn",
           "name": "Brooklyn",
@@ -45,7 +54,10 @@
         },
         {
           "abbreviation": "CHA",
-          "emoji": ":bee:",
+          "emoji": {
+            "default": ":bee:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Charlotte",
           "name": "Charlotte",
@@ -58,7 +70,10 @@
         },
         {
           "abbreviation": "CHI",
-          "emoji": ":cow:",
+          "emoji": {
+            "default": ":cow:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Chicago",
           "name": "Chicago",
@@ -71,7 +86,10 @@
         },
         {
           "abbreviation": "CLE",
-          "emoji": ":crossed_swords:",
+          "emoji": {
+            "default": ":crossed_swords:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Cleveland",
           "name": "Cleveland",
@@ -84,7 +102,10 @@
         },
         {
           "abbreviation": "DAL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Dallas",
           "name": "Dallas",
@@ -97,7 +118,10 @@
         },
         {
           "abbreviation": "DEN",
-          "emoji": ":pick:",
+          "emoji": {
+            "default": ":pick:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Denver",
           "name": "Denver",
@@ -110,7 +134,10 @@
         },
         {
           "abbreviation": "DET",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Detroit",
           "name": "Detroit",
@@ -123,7 +150,10 @@
         },
         {
           "abbreviation": "GS",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Golden State",
           "name": "Golden State",
@@ -136,7 +166,10 @@
         },
         {
           "abbreviation": "HOU",
-          "emoji": ":rocket:",
+          "emoji": {
+            "default": ":rocket:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Houston",
           "name": "Houston",
@@ -149,7 +182,10 @@
         },
         {
           "abbreviation": "IND",
-          "emoji": ":footprints:",
+          "emoji": {
+            "default": ":footprints:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Indiana",
           "name": "Indiana",
@@ -162,7 +198,10 @@
         },
         {
           "abbreviation": "LAC",
-          "emoji": ":scissors:",
+          "emoji": {
+            "default": ":scissors:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Los Angeles",
           "name": "L.A. Clippers",
@@ -175,7 +214,10 @@
         },
         {
           "abbreviation": "LAL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Los Angeles",
           "name": "L.A. Lakers",
@@ -188,7 +230,10 @@
         },
         {
           "abbreviation": "MEM",
-          "emoji": ":bear:",
+          "emoji": {
+            "default": ":bear:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Memphis",
           "name": "Memphis",
@@ -201,7 +246,10 @@
         },
         {
           "abbreviation": "MIA",
-          "emoji": ":fire:",
+          "emoji": {
+            "default": ":thermometer:",
+            "alternates": [":fire:", ":hot_pepper:", ":hotsprings:"]
+            },
           "league": "NBA",
           "location": "Miami",
           "name": "Miami",
@@ -214,7 +262,10 @@
         },
         {
           "abbreviation": "MIL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Milwaukee",
           "name": "Milwaukee",
@@ -227,7 +278,10 @@
         },
         {
           "abbreviation": "MIN",
-          "emoji": ":wolf:",
+          "emoji": {
+            "default": ":wolf:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Minnesota",
           "name": "Minnesota",
@@ -240,7 +294,10 @@
         },
         {
           "abbreviation": "NO",
-          "emoji": ":fleur_de_lis:",
+          "emoji": {
+            "default": ":fleur_de_lis:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "New Orleans",
           "name": "New Orleans",
@@ -253,7 +310,10 @@
         },
         {
           "abbreviation": "NY",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "New York",
           "name": "New York",
@@ -266,7 +326,10 @@
         },
         {
           "abbreviation": "OKC",
-          "emoji": ":thunder_cloud_and_rain:",
+          "emoji": {
+            "default": ":thunder_cloud_and_rain:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Oklahoma City",
           "name": "Oklahoma City",
@@ -279,7 +342,10 @@
         },
         {
           "abbreviation": "ORL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Orlando",
           "name": "Orlando",
@@ -292,7 +358,10 @@
         },
         {
           "abbreviation": "PHI",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Philadelphia",
           "name": "Philadelphia",
@@ -305,7 +374,10 @@
         },
         {
           "abbreviation": "PHO",
-          "emoji": ":sunny:",
+          "emoji": {
+            "default": ":sunny:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Phoenix",
           "name": "Phoenix",
@@ -318,7 +390,10 @@
         },
         {
           "abbreviation": "POR",
-          "emoji": "",
+          "emoji": {
+            "default": ":mountain_bicyclist:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Portland",
           "name": "Portland",
@@ -331,7 +406,10 @@
         },
         {
           "abbreviation": "SAC",
-          "emoji": ":crown:",
+          "emoji": {
+            "default": ":crown:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Sacramento",
           "name": "Sacramento",
@@ -344,7 +422,10 @@
         },
         {
           "abbreviation": "SA",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "San Antonio",
           "name": "San Antonio",
@@ -357,7 +438,10 @@
         },
         {
           "abbreviation": "TOR",
-          "emoji": ":dragon:",
+          "emoji": {
+            "default": ":dragon:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Toronto",
           "name": "Toronto",
@@ -370,7 +454,10 @@
         },
         {
           "abbreviation": "UTA",
-          "emoji": ":saxophone:",
+          "emoji": {
+            "default": ":saxophone:",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Utah",
           "name": "Utah",
@@ -383,7 +470,10 @@
         },
         {
           "abbreviation": "WAS",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
           "league": "NBA",
           "location": "Washington",
           "name": "Washington",
@@ -402,7 +492,11 @@
       "teams": [
         {
           "abbreviation": "ARI",
-          "emoji": ":cactus:",
+          "emoji": {
+            "default": ":cactus:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Arizona",
           "name": "Arizona",
           "nickname": "Cardinals",
@@ -414,7 +508,11 @@
         },
         {
           "abbreviation": "ATL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Atlanta",
           "name": "Atlanta",
           "nickname": "Falcons",
@@ -426,7 +524,11 @@
         },
         {
           "abbreviation": "BAL",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Baltimore",
           "name": "Baltimore",
           "nickname": "Ravens",
@@ -438,7 +540,11 @@
         },
         {
           "abbreviation": "BUF",
-          "emoji": ":water_buffalo:",
+          "emoji": {
+            "default": ":water_buffalo:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Buffalo",
           "name": "Buffalo",
           "nickname": "Bills",
@@ -450,7 +556,11 @@
         },
         {
           "abbreviation": "CAR",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Carolina",
           "name": "Carolina",
           "nickname": "Panthers",
@@ -462,7 +572,11 @@
         },
         {
           "abbreviation": "CHI",
-          "emoji": ":bear:",
+          "emoji": {
+            "default": ":bear:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Chicago",
           "name": "Chicago",
           "nickname": "Bears",
@@ -474,7 +588,11 @@
         },
         {
           "abbreviation": "CIN",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Cincinnati",
           "name": "Cincinnati",
           "nickname": "Bengals",
@@ -486,7 +604,11 @@
         },
         {
           "abbreviation": "CLE",
-          "emoji": ":poop:",
+          "emoji": {
+            "default": ":poop:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Cleveland",
           "name": "Cleveland",
           "nickname": "Browns",
@@ -498,7 +620,11 @@
         },
         {
           "abbreviation": "DAL",
-          "emoji": ":cow:",
+          "emoji": {
+            "default": ":cow:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Dallas",
           "name": "Dallas",
           "nickname": "Cowboys",
@@ -510,7 +636,11 @@
         },
         {
           "abbreviation": "DEN",
-          "emoji": ":horse_racing:",
+          "emoji": {
+            "default": ":horse_racing:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Denver",
           "name": "Denver",
           "nickname": "Broncos",
@@ -522,7 +652,11 @@
         },
         {
           "abbreviation": "DET",
-          "emoji": ":lion_face:",
+          "emoji": {
+            "default": ":lion_face:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Detroit",
           "name": "Detroit",
           "nickname": "Lions",
@@ -534,7 +668,11 @@
         },
         {
           "abbreviation": "GB",
-          "emoji": ":cheese_wedge:",
+          "emoji": {
+            "default": ":cheese_wedge:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Green Bay",
           "name": "Green Bay",
           "nickname": "Packers",
@@ -546,7 +684,11 @@
         },
         {
           "abbreviation": "HOU",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Houston",
           "name": "Houston",
           "nickname": "Texans",
@@ -558,7 +700,11 @@
         },
         {
           "abbreviation": "IND",
-          "emoji": ":horse:",
+          "emoji": {
+            "default": ":horse:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Indianapolis",
           "name": "Indianapolis",
           "nickname": "Colts",
@@ -570,7 +716,11 @@
         },
         {
           "abbreviation": "JAC",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Jacksonville",
           "name": "Jacksonville",
           "nickname": "Jaguars",
@@ -582,7 +732,11 @@
         },
         {
           "abbreviation": "KC",
-          "emoji": ":bow_and_arrow:",
+          "emoji": {
+            "default": ":bow_and_arrow:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Kansas City",
           "name": "Kansas City",
           "nickname": "Chiefs",
@@ -594,7 +748,11 @@
         },
         {
           "abbreviation": "MIA",
-          "emoji": ":dolphin:",
+          "emoji": {
+            "default": ":dolphin:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Miami",
           "name": "Miami",
           "nickname": "Dolphins",
@@ -606,7 +764,11 @@
         },
         {
           "abbreviation": "MIN",
-          "emoji": "rowboat:",
+          "emoji": {
+            "default": "rowboat:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Minnesota",
           "name": "Minnesota",
           "nickname": "Vikings",
@@ -618,7 +780,11 @@
         },
         {
           "abbreviation": "NYG",
-          "emoji": ":mushroom:",
+          "emoji": {
+            "default": ":mushroom:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "New York",
           "name": "N.Y. Giants",
           "nickname": "Giants",
@@ -630,7 +796,11 @@
         },
         {
           "abbreviation": "NYJ",
-          "emoji": ":airplane:",
+          "emoji": {
+            "default": ":airplane:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "New York",
           "name": "N.Y. Jets",
           "nickname": "Jets",
@@ -642,7 +812,11 @@
         },
         {
           "abbreviation": "NE",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "New England",
           "name": "New England",
           "nickname": "Patriots",
@@ -654,7 +828,11 @@
         },
         {
           "abbreviation": "NO",
-          "emoji": ":fleur_de_lis:",
+          "emoji": {
+            "default": ":fleur_de_lis:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "New Orleans",
           "name": "New Orleans",
           "nickname": "Saints",
@@ -666,7 +844,11 @@
         },
         {
           "abbreviation": "OAK",
-          "emoji": ":skull_and_crossbones:",
+          "emoji": {
+            "default": ":skull_and_crossbones:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Oakland",
           "name": "Oakland",
           "nickname": "Raiders",
@@ -678,7 +860,11 @@
         },
         {
           "abbreviation": "PHI",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Philadelphia",
           "name": "Philadelphia",
           "nickname": "Eagles",
@@ -690,7 +876,11 @@
         },
         {
           "abbreviation": "PIT",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Pittsburgh",
           "name": "Pittsburgh",
           "nickname": "Steelers",
@@ -702,7 +892,11 @@
         },
         {
           "abbreviation": "SD",
-          "emoji": "",
+          "emoji": {
+            "default": ":zap:",
+            "alternates": [":battery:", ":electric_plug:"]
+            },
+          "league": "NFL",
           "location": "San Diego",
           "name": "San Diego",
           "nickname": "Chargers",
@@ -714,7 +908,11 @@
         },
         {
           "abbreviation": "SF",
-          "emoji": ":pick:",
+          "emoji": {
+            "default": ":pick:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "San Francisco",
           "name": "San Francisco",
           "nickname": "49ers",
@@ -726,7 +924,11 @@
         },
         {
           "abbreviation": "SEA",
-          "emoji": ":ocean:",
+          "emoji": {
+            "default": ":ocean:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Seattle",
           "name": "Seattle",
           "nickname": "Seahawks",
@@ -738,7 +940,11 @@
         },
         {
           "abbreviation": "STL",
-          "emoji": ":ram:",
+          "emoji": {
+            "default": ":ram:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "St. Louis",
           "name": "St. Louis",
           "nickname": "Rams",
@@ -750,7 +956,11 @@
         },
         {
           "abbreviation": "TB",
-          "emoji": ":crossed_swords:",
+          "emoji": {
+            "default": ":crossed_swords:",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Tampa Bay",
           "name": "Tampa Bay",
           "nickname": "Buccaneers",
@@ -762,7 +972,11 @@
         },
         {
           "abbreviation": "TEN",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Tennessee",
           "name": "Tennessee",
           "nickname": "Titans",
@@ -774,7 +988,11 @@
         },
         {
           "abbreviation": "WAS",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NFL",
           "location": "Washington",
           "name": "Washington",
           "nickname": "Redskins",
@@ -792,7 +1010,11 @@
       "teams": [
         {
           "abbreviation": "ANA",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Anaheim",
           "name": "Anaheim",
           "nickname": "Ducks",
@@ -804,7 +1026,11 @@
         },
         {
           "abbreviation": "ARI",
-          "emoji": ":wolf:",
+          "emoji": {
+            "default": ":wolf:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Arizona",
           "name": "Arizona",
           "nickname": "Coyotes",
@@ -816,7 +1042,11 @@
         },
         {
           "abbreviation": "BOS",
-          "emoji": ":bear:",
+          "emoji": {
+            "default": ":bear:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Boston",
           "name": "Boston",
           "nickname": "Bruins",
@@ -828,7 +1058,11 @@
         },
         {
           "abbreviation": "BUF",
-          "emoji": ":crossed_swords:",
+          "emoji": {
+            "default": ":crossed_swords:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Buffalo",
           "name": "Buffalo",
           "nickname": "Sabres",
@@ -840,7 +1074,11 @@
         },
         {
           "abbreviation": "CAL",
-          "emoji": ":fire:",
+          "emoji": {
+            "default": ":fire:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Calgary",
           "name": "Calgary",
           "nickname": "Flames",
@@ -852,7 +1090,11 @@
         },
         {
           "abbreviation": "CAR",
-          "emoji": ":cyclone:",
+          "emoji": {
+            "default": ":cyclone:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Carolina",
           "name": "Carolina",
           "nickname": "Hurricanes",
@@ -864,7 +1106,11 @@
         },
         {
           "abbreviation": "CHI",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Chicago",
           "name": "Chicago",
           "nickname": "Blackhawks",
@@ -876,7 +1122,11 @@
         },
         {
           "abbreviation": "COL",
-          "emoji": ":snow_capped_mountain:",
+          "emoji": {
+            "default": ":snow_capped_mountain:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Colorado",
           "name": "Colorado",
           "nickname": "Avalanche",
@@ -888,7 +1138,11 @@
         },
         {
           "abbreviation": "CLB",
-          "emoji": ":bee:",
+          "emoji": {
+            "default": ":bee:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Columbus",
           "name": "Columbus",
           "nickname": "Blue Jackets",
@@ -900,7 +1154,11 @@
         },
         {
           "abbreviation": "DAL",
-          "emoji": ":star:",
+          "emoji": {
+            "default": ":star:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Dallas",
           "name": "Dallas",
           "nickname": "Stars",
@@ -912,7 +1170,11 @@
         },
         {
           "abbreviation": "DET",
-          "emoji": ":red_car:",
+          "emoji": {
+            "default": ":red_car:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Detroit",
           "name": "Detroit",
           "nickname": "Red Wings",
@@ -924,7 +1186,11 @@
         },
         {
           "abbreviation": "EDM",
-          "emoji": ":oil_drum:",
+          "emoji": {
+            "default": ":oil_drum:",
+            "alternates": [":fuelpump:"]
+            },
+          "league": "NHL",
           "location": "Edmonton",
           "name": "Edmonton",
           "nickname": "Oilers",
@@ -936,7 +1202,11 @@
         },
         {
           "abbreviation": "FLA",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Florida",
           "name": "Florida",
           "nickname": "Panthers",
@@ -948,7 +1218,11 @@
         },
         {
           "abbreviation": "LA",
-          "emoji": ":crown:",
+          "emoji": {
+            "default": ":crown:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Los Angeles",
           "name": "Los Angeles",
           "nickname": "Kings",
@@ -960,7 +1234,11 @@
         },
         {
           "abbreviation": "MIN",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Minnesota",
           "name": "Minnesota",
           "nickname": "Wild",
@@ -972,7 +1250,11 @@
         },
         {
           "abbreviation": "MON",
-          "emoji": ":flag-ca:",
+          "emoji": {
+            "default": ":flag-ca:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Montreal",
           "name": "Montreal",
           "nickname": "Canadiens",
@@ -984,7 +1266,11 @@
         },
         {
           "abbreviation": "NYI",
-          "emoji": "",
+          "emoji": {
+            "default": ":desert_island:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "New York",
           "name": "NY Islanders",
           "nickname": "Islanders",
@@ -996,7 +1282,11 @@
         },
         {
           "abbreviation": "NYR",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "New York",
           "name": "NY Rangers",
           "nickname": "Rangers",
@@ -1008,7 +1298,11 @@
         },
         {
           "abbreviation": "NAS",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Nashville",
           "name": "Nashville",
           "nickname": "Predators",
@@ -1020,7 +1314,11 @@
         },
         {
           "abbreviation": "NJ",
-          "emoji": "",
+          "emoji": {
+            "default": ":smiling_imp:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "New Jersey",
           "name": "New Jersey",
           "nickname": "Devils",
@@ -1032,7 +1330,11 @@
         },
         {
           "abbreviation": "OTT",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Ottawa",
           "name": "Ottawa",
           "nickname": "Senators",
@@ -1044,7 +1346,11 @@
         },
         {
           "abbreviation": "PHI",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Philadelphia",
           "name": "Philadelphia",
           "nickname": "Flyers",
@@ -1056,7 +1362,11 @@
         },
         {
           "abbreviation": "PIT",
-          "emoji": ":penguin:",
+          "emoji": {
+            "default": ":penguin:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Pittsburgh",
           "name": "Pittsburgh",
           "nickname": "Penguins",
@@ -1068,7 +1378,11 @@
         },
         {
           "abbreviation": "SJ",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "San Jose",
           "name": "San Jose",
           "nickname": "Sharks",
@@ -1080,7 +1394,11 @@
         },
         {
           "abbreviation": "STL",
-          "emoji": "",
+          "emoji": {
+            "default": ":saxophone:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "St. Louis",
           "name": "St. Louis",
           "nickname": "Blues",
@@ -1092,7 +1410,11 @@
         },
         {
           "abbreviation": "TB",
-          "emoji": "",
+          "emoji": {
+            "default": ":zap:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Tampa Bay",
           "name": "Tampa Bay",
           "nickname": "Lightning",
@@ -1104,7 +1426,11 @@
         },
         {
           "abbreviation": "TOR",
-          "emoji": ":maple_leaf:",
+          "emoji": {
+            "default": ":maple_leaf:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Toronto",
           "name": "Toronto",
           "nickname": "Maple Leafs",
@@ -1116,7 +1442,11 @@
         },
         {
           "abbreviation": "VAN",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Vancouver",
           "name": "Vancouver",
           "nickname": "Canucks",
@@ -1128,7 +1458,11 @@
         },
         {
           "abbreviation": "WAS",
-          "emoji": "",
+          "emoji": {
+            "default": "",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Washington",
           "name": "Washington",
           "nickname": "Capitals",
@@ -1140,7 +1474,11 @@
         },
         {
           "abbreviation": "WIN",
-          "emoji": "",
+          "emoji": {
+            "default": ":airplane:",
+            "alternates": []
+            },
+          "league": "NHL",
           "location": "Winnipeg",
           "name": "Winnipeg",
           "nickname": "Jets",
