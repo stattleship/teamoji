@@ -2,7 +2,7 @@
 Your favorite sports teams in emoji
 
 | Name          | Nickname      | Slug    | Default                  | Alternates                                 |
--------------------------------------------------------------------------------------------------------------------
+| --------------|---------------|---------|--------------------------|--------------------------------------------|
 | Atlanta       | Hawks         | nba-atl | :bird:                   |                                            |
 | Boston        | Celtics       | nba-bos | :four_leaf_clover:       | :shamrock:                                 |
 | Brooklyn      | Nets          | nba-bk  | :spider_web:             |                                            |
