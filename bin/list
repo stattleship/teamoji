@@ -27,6 +27,8 @@ rows = []
 
 
 json.each do |sport|
+  puts "## #{sport['sport'].capitalize}"
+
   sport['teams'].each do |team|
 
     rows << [team['name'],
@@ -36,12 +38,11 @@ json.each do |sport|
              team['emoji']['alternates'].join(' ')]
   end
 
-  puts
+  table = Terminal::Table.new(headings: ['Name', 'Nickname', 'Slug', 'Default', 'Alternates'],
+                              rows: rows,
+                              style: { border_i: '-' })
 
+  puts table
+
+  rows = []
 end
-
-table = Terminal::Table.new(headings: ['Name', 'Nickname', 'Slug', 'Default', 'Alternates'],
-                            rows: rows,
-                            style: { border_i: '-' })
-
-puts table
