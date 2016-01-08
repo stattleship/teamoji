@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'JSON'
+require 'terminal-table'
 
 
 json = JSON.parse(File.read('teamoji.json'))['teamoji']
@@ -22,4 +23,25 @@ json.each do |sport|
 
 end
 
+rows = []
 
+
+json.each do |sport|
+  sport['teams'].each do |team|
+
+    rows << [team['name'],
+             team['nickname'],
+             team['slug'],
+             team['emoji']['default'],
+             team['emoji']['alternates'].join(' ')]
+  end
+
+  puts
+
+end
+
+table = Terminal::Table.new(headings: ['Name', 'Nickname', 'Slug', 'Default', 'Alternates'],
+                            rows: rows,
+                            style: { border_i: '-' })
+
+puts table
