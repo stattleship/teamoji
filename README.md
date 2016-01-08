@@ -4,7 +4,7 @@ Your favorite sports teams in emoji
 ## Basketball
 
 | Name          | Nickname      | Slug    | Default                  | Alternates                                 |
-|-----------------------------------------------------------------------------------------------------------------|
+|---------------|---------------|---------|--------------------------|--------------------------------------------|
 | Atlanta       | Hawks         | nba-atl | :bird:                   |                                            |
 | Boston        | Celtics       | nba-bos | :four_leaf_clover:       | :shamrock:                                 |
 | Brooklyn      | Nets          | nba-bk  | :spider_web:             |                                            |
@@ -40,7 +40,7 @@ Your favorite sports teams in emoji
 ## Football
 
 | Name          | Nickname   | Slug    | Default                | Alternates                |
-|-------------------------------------------------------------------------------------------|
+|---------------|------------|---------|------------------------|---------------------------|
 | Arizona       | Cardinals  | nfl-ari | :cactus:               |                           |
 | Atlanta       | Falcons    | nfl-atl | :bird:                 |                           |
 | Baltimore     | Ravens     | nfl-bal |                        |                           |
@@ -78,7 +78,7 @@ Your favorite sports teams in emoji
 ## Hockey
 
 | Name         | Nickname     | Slug    | Default                | Alternates       |
-|-----------------------------------------------------------------------------------|
+|--------------|--------------|---------|------------------------|------------------|
 | Anaheim      | Ducks        | nhl-ana | :baby_chick:           | :hatched_chick:  |
 | Arizona      | Coyotes      | nhl-ari | :wolf:                 |                  |
 | Boston       | Bruins       | nhl-bos | :bear:                 |                  |
