@@ -27,7 +27,7 @@ rows = []
 
 
 json.each do |sport|
-  puts "## #{sport['sport'].capitalize}"
+  puts "## #{sport['emoji']} #{sport['sport'].capitalize}"
 
   sport['teams'].each do |team|
 
