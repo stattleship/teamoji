@@ -2,9 +2,9 @@
 Your favorite sports teams in emoji
 
 ## :basketball: Basketball
--------------------------------------------------------------------------------------------------------------------
+
 | Name          | Nickname      | Slug    | Default                  | Alternates                                 |
--------------------------------------------------------------------------------------------------------------------
+|---------------|---------------|---------|--------------------------|--------------------------------------------|
 | Atlanta       | Hawks         | nba-atl | :bird:                   |                                            |
 | Boston        | Celtics       | nba-bos | :four_leaf_clover:       | :shamrock:                                 |
 | Brooklyn      | Nets          | nba-bk  | :spider_web:             |                                            |
@@ -38,9 +38,9 @@ Your favorite sports teams in emoji
 -------------------------------------------------------------------------------------------------------------------
 
 ## :football: Football
----------------------------------------------------------------------------------------------
+
 | Name          | Nickname   | Slug    | Default                | Alternates                |
----------------------------------------------------------------------------------------------
+|---------------|------------|---------|------------------------|---------------------------|
 | Arizona       | Cardinals  | nfl-ari | :cactus:               |                           |
 | Atlanta       | Falcons    | nfl-atl | :bird:                 |                           |
 | Baltimore     | Ravens     | nfl-bal | :electric_plug:        | :gun:                     |
@@ -72,41 +72,42 @@ Your favorite sports teams in emoji
 | St. Louis     | Rams       | nfl-stl | :ram:                  |                           |
 | Tampa Bay     | Buccaneers | nfl-tb  | :crossed_swords:       |                           |
 | Tennessee     | Titans     | nfl-ten | :full_moon:            |                           |
-| Washington    | Redskins   | nfl-was | :classical_building:   | :cherry_blossom:          |
+| Washington    | Redskins   | nfl-was | :classical_building:   | :cherry_blossom           |
 ---------------------------------------------------------------------------------------------
 
 ## :ice_hockey_stick_and_puck: Hockey
----------------------------------------------------------------------------------------
-| Name         | Nickname     | Slug    | Default                | Alternates         |
----------------------------------------------------------------------------------------
-| Anaheim      | Ducks        | nhl-ana | :baby_chick:           | :hatched_chick:    |
-| Arizona      | Coyotes      | nhl-ari | :wolf:                 |                    |
-| Boston       | Bruins       | nhl-bos | :bear:                 |                    |
-| Buffalo      | Sabres       | nhl-buf | :crossed_swords:       |                    |
-| Calgary      | Flames       | nhl-cal | :fire:                 |                    |
-| Carolina     | Hurricanes   | nhl-car | :cyclone:              |                    |
-| Chicago      | Blackhawks   | nhl-chi | :bird:                 |                    |
-| Colorado     | Avalanche    | nhl-col | :snow_capped_mountain: |                    |
-| Columbus     | Blue Jackets | nhl-clb | :bee:                  |                    |
-| Dallas       | Stars        | nhl-dal | :star:                 | :stars:            |
-| Detroit      | Red Wings    | nhl-det | :octopus:              | :red_car:          |
-| Edmonton     | Oilers       | nhl-edm | :oil_drum:             | :fuelpump:         |
-| Florida      | Panthers     | nhl-fla | :sunrise:              |                    |
-| Los Angeles  | Kings        | nhl-la  | :crown:                |                    |
-| Minnesota    | Wild         | nhl-min | :evergreen_tree:       | :wolf:             |
-| Montreal     | Canadiens    | nhl-mon | :flag-ca:              |                    |
-| NY Islanders | Islanders    | nhl-nyi | :desert_island:        |                    |
-| NY Rangers   | Rangers      | nhl-nyr | :statue_of_liberty:    |                    |
-| Nashville    | Predators    | nhl-nas | :leopard:              | :guitar:           |
-| New Jersey   | Devils       | nhl-nj  | :smiling_imp:          |                    |
-| Ottawa       | Senators     | nhl-ott | :shield:               |                    |
-| Philadelphia | Flyers       | nhl-phi | :orange_book:          | :small_airplane:   |
-| Pittsburgh   | Penguins     | nhl-pit | :penguin:              |                    |
-| San Jose     | Sharks       | nhl-sj  | :fish:                 | :computer: :shark: |
-| St. Louis    | Blues        | nhl-stl | :saxophone:            |                    |
-| Tampa Bay    | Lightning    | nhl-tb  | :zap:                  |                    |
-| Toronto      | Maple Leafs  | nhl-tor | :maple_leaf:           |                    |
-| Vancouver    | Canucks      | nhl-van | :skier:                | :mountain:         |
-| Washington   | Capitals     | nhl-was | :capital_abcd:         |                    |
-| Winnipeg     | Jets         | nhl-win | :airplane:             |                    |
----------------------------------------------------------------------------------------
+
+| Name         | Nickname     | Slug    | Default                | Alternates       |
+|--------------|--------------|---------|------------------------|------------------|
+| Anaheim      | Ducks        | nhl-ana | :baby_chick:           | :hatched_chick:  |
+| Arizona      | Coyotes      | nhl-ari | :wolf:                 |                  |
+| Boston       | Bruins       | nhl-bos | :bear:                 |                  |
+| Buffalo      | Sabres       | nhl-buf | :crossed_swords:       |                  |
+| Calgary      | Flames       | nhl-cal | :fire:                 |                  |
+| Carolina     | Hurricanes   | nhl-car | :cyclone:              |                  |
+| Chicago      | Blackhawks   | nhl-chi | :bird:                 |                  |
+| Colorado     | Avalanche    | nhl-col | :snow_capped_mountain: |                  |
+| Columbus     | Blue Jackets | nhl-clb | :bee:                  |                  |
+| Dallas       | Stars        | nhl-dal | :star:                 | :stars:          |
+| Detroit      | Red Wings    | nhl-det | :octopus:              | :red_car:        |
+| Edmonton     | Oilers       | nhl-edm | :oil_drum:             | :fuelpump:       |
+| Florida      | Panthers     | nhl-fla | :sunrise:              |                  |
+| Los Angeles  | Kings        | nhl-la  | :crown:                |                  |
+| Minnesota    | Wild         | nhl-min | :evergreen_tree:       | :wolf:           |
+| Montreal     | Canadiens    | nhl-mon | :flag-ca:              |                  |
+| NY Islanders | Islanders    | nhl-nyi | :desert_island:        |                  |
+| NY Rangers   | Rangers      | nhl-nyr | :statue_of_liberty:    |                  |
+| Nashville    | Predators    | nhl-nas | :leopard:              | :guitar:         |
+| New Jersey   | Devils       | nhl-nj  | :smiling_imp:          |                  |
+| Ottawa       | Senators     | nhl-ott | :shield:               |                  |
+| Philadelphia | Flyers       | nhl-phi | :orange_book:          | :small_airplane: |
+| Pittsburgh   | Penguins     | nhl-pit | :penguin:              |                  |
+| San Jose     | Sharks       | nhl-sj  | :fish:                 | :computer:       |
+| St. Louis    | Blues        | nhl-stl | :saxophone:            |                  |
+| Tampa Bay    | Lightning    | nhl-tb  | :zap:                  |                  |
+| Toronto      | Maple Leafs  | nhl-tor | :maple_leaf:           |                  |
+| Vancouver    | Canucks      | nhl-van | :skier:                | :mountain:       |
+| Washington   | Capitals     | nhl-was | :capital_abcd:         |                  |
+| Winnipeg     | Jets         | nhl-win | :airplane:             |                  |
+-------------------------------------------------------------------------------------
+
