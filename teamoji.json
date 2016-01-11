@@ -526,7 +526,7 @@
           "abbreviation": "BAL",
           "emoji": {
             "default": ":electric_plug:",
-            "alternates": [":gun:"]
+            "alternates": [":gun:", ":derelict_house_building:"]
             },
           "league": "NFL",
           "location": "Baltimore",

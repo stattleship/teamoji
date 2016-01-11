@@ -39,41 +39,41 @@ Your favorite sports teams in emoji
 
 ## :football: Football
 
-| Name          | Nickname   | Slug    | Default                | Alternates                |
-|---------------|------------|---------|------------------------|---------------------------|
-| Arizona       | Cardinals  | nfl-ari | :cactus:               |                           |
-| Atlanta       | Falcons    | nfl-atl | :bird:                 |                           |
-| Baltimore     | Ravens     | nfl-bal | :electric_plug:        | :gun:                     |
-| Buffalo       | Bills      | nfl-buf | :water_buffalo:        |                           |
-| Carolina      | Panthers   | nfl-car | :cat:                  |                           |
-| Chicago       | Bears      | nfl-chi | :bear:                 |                           |
-| Cincinnati    | Bengals    | nfl-cin | :tiger:                | :tiger2:                  |
-| Cleveland     | Browns     | nfl-cle | :poop:                 |                           |
-| Dallas        | Cowboys    | nfl-dal | :cow:                  |                           |
-| Denver        | Broncos    | nfl-den | :horse_racing:         |                           |
-| Detroit       | Lions      | nfl-det | :lion_face:            |                           |
-| Green Bay     | Packers    | nfl-gb  | :cheese_wedge:         |                           |
-| Houston       | Texans     | nfl-hou | :oil_drum:             | :fuelpump:                |
-| Indianapolis  | Colts      | nfl-ind | :horse:                |                           |
-| Jacksonville  | Jaguars    | nfl-jac | :tiger2:               |                           |
-| Kansas City   | Chiefs     | nfl-kc  | :bow_and_arrow:        |                           |
-| Miami         | Dolphins   | nfl-mia | :dolphin:              |                           |
-| Minnesota     | Vikings    | nfl-min | :rowboat:              |                           |
-| N.Y. Giants   | Giants     | nfl-nyg | :mushroom:             |                           |
-| N.Y. Jets     | Jets       | nfl-nyj | :airplane:             |                           |
-| New England   | Patriots   | nfl-ne  | :flag-us:              |                           |
-| New Orleans   | Saints     | nfl-no  | :fleur_de_lis:         |                           |
-| Oakland       | Raiders    | nfl-oak | :skull_and_crossbones: |                           |
-| Philadelphia  | Eagles     | nfl-phi | :bell:                 |                           |
-| Pittsburgh    | Steelers   | nfl-pit | :construction_worker:  | :factory:                 |
-| San Diego     | Chargers   | nfl-sd  | :zap:                  | :battery: :electric_plug: |
-| San Francisco | 49ers      | nfl-sf  | :pick:                 |                           |
-| Seattle       | Seahawks   | nfl-sea | :ocean:                |                           |
-| St. Louis     | Rams       | nfl-stl | :ram:                  |                           |
-| Tampa Bay     | Buccaneers | nfl-tb  | :crossed_swords:       |                           |
-| Tennessee     | Titans     | nfl-ten | :full_moon:            |                           |
-| Washington    | Redskins   | nfl-was | :classical_building:   | :cherry_blossom           |
----------------------------------------------------------------------------------------------
+| Name          | Nickname   | Slug    | Default                | Alternates                      |
+|---------------|------------|---------|------------------------|---------------------------------|
+| Arizona       | Cardinals  | nfl-ari | :cactus:               |                                 |
+| Atlanta       | Falcons    | nfl-atl | :bird:                 |                                 |
+| Baltimore     | Ravens     | nfl-bal | :electric_plug:        | :gun: :derelict_house_building: |
+| Buffalo       | Bills      | nfl-buf | :water_buffalo:        |                                 |
+| Carolina      | Panthers   | nfl-car | :cat:                  |                                 |
+| Chicago       | Bears      | nfl-chi | :bear:                 |                                 |
+| Cincinnati    | Bengals    | nfl-cin | :tiger:                | :tiger2:                        |
+| Cleveland     | Browns     | nfl-cle | :poop:                 |                                 |
+| Dallas        | Cowboys    | nfl-dal | :cow:                  |                                 |
+| Denver        | Broncos    | nfl-den | :horse_racing:         |                                 |
+| Detroit       | Lions      | nfl-det | :lion_face:            |                                 |
+| Green Bay     | Packers    | nfl-gb  | :cheese_wedge:         |                                 |
+| Houston       | Texans     | nfl-hou | :oil_drum:             | :fuelpump:                      |
+| Indianapolis  | Colts      | nfl-ind | :horse:                |                                 |
+| Jacksonville  | Jaguars    | nfl-jac | :tiger2:               |                                 |
+| Kansas City   | Chiefs     | nfl-kc  | :bow_and_arrow:        |                                 |
+| Miami         | Dolphins   | nfl-mia | :dolphin:              |                                 |
+| Minnesota     | Vikings    | nfl-min | :rowboat:              |                                 |
+| N.Y. Giants   | Giants     | nfl-nyg | :mushroom:             |                                 |
+| N.Y. Jets     | Jets       | nfl-nyj | :airplane:             |                                 |
+| New England   | Patriots   | nfl-ne  | :flag-us:              |                                 |
+| New Orleans   | Saints     | nfl-no  | :fleur_de_lis:         |                                 |
+| Oakland       | Raiders    | nfl-oak | :skull_and_crossbones: |                                 |
+| Philadelphia  | Eagles     | nfl-phi | :bell:                 |                                 |
+| Pittsburgh    | Steelers   | nfl-pit | :construction_worker:  | :factory:                       |
+| San Diego     | Chargers   | nfl-sd  | :zap:                  | :battery: :electric_plug:       |
+| San Francisco | 49ers      | nfl-sf  | :pick:                 |                                 |
+| Seattle       | Seahawks   | nfl-sea | :ocean:                |                                 |
+| St. Louis     | Rams       | nfl-stl | :ram:                  |                                 |
+| Tampa Bay     | Buccaneers | nfl-tb  | :crossed_swords:       |                                 |
+| Tennessee     | Titans     | nfl-ten | :full_moon:            |                                 |
+| Washington    | Redskins   | nfl-was | :classical_building:   | :cherry_blossom:                |
+---------------------------------------------------------------------------------------------------
 
 ## :ice_hockey_stick_and_puck: Hockey
 
