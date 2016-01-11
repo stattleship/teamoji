@@ -525,8 +525,8 @@
         {
           "abbreviation": "BAL",
           "emoji": {
-            "default": "",
-            "alternates": []
+            "default": ":electric_plug:",
+            "alternates": [":gun:"]
             },
           "league": "NFL",
           "location": "Baltimore",
@@ -685,8 +685,8 @@
         {
           "abbreviation": "HOU",
           "emoji": {
-            "default": "",
-            "alternates": []
+            "default": ":oil_drum:",
+            "alternates": [":fuelpump:"]
             },
           "league": "NFL",
           "location": "Houston",
@@ -990,7 +990,7 @@
           "abbreviation": "WAS",
           "emoji": {
             "default": ":classical_building:",
-            "alternates": []
+            "alternates": [":cherry_blossom:"]
             },
           "league": "NFL",
           "location": "Washington",
@@ -1379,8 +1379,8 @@
         {
           "abbreviation": "SJ",
           "emoji": {
-            "default": "",
-            "alternates": []
+            "default": ":fish:",
+            "alternates": [":computer:", ":shark:"]
             },
           "league": "NHL",
           "location": "San Jose",

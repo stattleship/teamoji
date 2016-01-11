@@ -43,7 +43,7 @@ Your favorite sports teams in emoji
 |---------------|------------|---------|------------------------|---------------------------|
 | Arizona       | Cardinals  | nfl-ari | :cactus:               |                           |
 | Atlanta       | Falcons    | nfl-atl | :bird:                 |                           |
-| Baltimore     | Ravens     | nfl-bal |                        |                           |
+| Baltimore     | Ravens     | nfl-bal | :electric_plug:        | :gun:                     |
 | Buffalo       | Bills      | nfl-buf | :water_buffalo:        |                           |
 | Carolina      | Panthers   | nfl-car | :cat:                  |                           |
 | Chicago       | Bears      | nfl-chi | :bear:                 |                           |
@@ -53,7 +53,7 @@ Your favorite sports teams in emoji
 | Denver        | Broncos    | nfl-den | :horse_racing:         |                           |
 | Detroit       | Lions      | nfl-det | :lion_face:            |                           |
 | Green Bay     | Packers    | nfl-gb  | :cheese_wedge:         |                           |
-| Houston       | Texans     | nfl-hou |                        |                           |
+| Houston       | Texans     | nfl-hou | :oil_drum:             | :fuelpump:                |
 | Indianapolis  | Colts      | nfl-ind | :horse:                |                           |
 | Jacksonville  | Jaguars    | nfl-jac | :tiger2:               |                           |
 | Kansas City   | Chiefs     | nfl-kc  | :bow_and_arrow:        |                           |
@@ -72,7 +72,7 @@ Your favorite sports teams in emoji
 | St. Louis     | Rams       | nfl-stl | :ram:                  |                           |
 | Tampa Bay     | Buccaneers | nfl-tb  | :crossed_swords:       |                           |
 | Tennessee     | Titans     | nfl-ten | :full_moon:            |                           |
-| Washington    | Redskins   | nfl-was | :classical_building:   |                           |
+| Washington    | Redskins   | nfl-was | :classical_building:   | :cherry_blossom           |
 ---------------------------------------------------------------------------------------------
 
 ## Hockey
@@ -102,7 +102,7 @@ Your favorite sports teams in emoji
 | Ottawa       | Senators     | nhl-ott | :shield:               |                  |
 | Philadelphia | Flyers       | nhl-phi | :orange_book:          | :small_airplane: |
 | Pittsburgh   | Penguins     | nhl-pit | :penguin:              |                  |
-| San Jose     | Sharks       | nhl-sj  |                        |                  |
+| San Jose     | Sharks       | nhl-sj  | :fish:                 | :computer:       |
 | St. Louis    | Blues        | nhl-stl | :saxophone:            |                  |
 | Tampa Bay    | Lightning    | nhl-tb  | :zap:                  |                  |
 | Toronto      | Maple Leafs  | nhl-tor | :maple_leaf:           |                  |
