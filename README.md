@@ -1,6 +1,9 @@
 # teamoji
 Your favorite sports teams in emoji
 
+[Glickman](https://github.com/stattleship/glickman) uses teamojis in its sports slackbot commands powered by our [Stattleship API](https://www.stattleship.com).
+
+
 ## :basketball: Basketball
 
 | Name          | Nickname      | Slug    | Default                  | Alternates                                 |
