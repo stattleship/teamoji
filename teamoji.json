@@ -43,10 +43,10 @@
         {
           "abbreviation": "BK",
           "emoji": {
-            "default": ":spider_web:",
+            "default": ":circus_tent:",
             "slack": ":spider_web:",
-            "twitter": ":spider_web:",
-            "alternates": []
+            "twitter": ":circus_tent:",
+            "alternates": [":circus_tent:", ":hotdog:"]
             },
           "league": "NBA",
           "location": "Brooklyn",
@@ -117,8 +117,8 @@
           "emoji": {
             "default": ":flag-cu:",
             "slack": ":flag-cu:",
-            "twitter": ":flag-cu:",
-            "alternates": []
+            "twitter": ":flag_cu:",
+            "alternates": [":flag_cu:"]
             },
           "league": "NBA",
           "location": "Dallas",
@@ -133,10 +133,10 @@
         {
           "abbreviation": "DEN",
           "emoji": {
-            "default": ":pick:",
+            "default": ":sunrise_over_mountains:",
             "slack": ":pick:",
-            "twitter": ":pick:",
-            "alternates": []
+            "twitter": ":sunrise_over_mountains:",
+            "alternates": [":hammer_pick:"]
             },
           "league": "NBA",
           "location": "Denver",
@@ -277,10 +277,10 @@
         {
           "abbreviation": "MIA",
           "emoji": {
-            "default": ":thermometer:",
+            "default": ":hotsprings:",
             "slack": ":thermometer:",
-            "twitter": ":thermometer:",
-            "alternates": [":fire:", ":hot_pepper:", ":hotsprings:"]
+            "twitter": ":hotsprings:",
+            "alternates": [":fire:", ":hot_pepper:", ":hotsprings:", ":thermometer:"]
             },
           "league": "NBA",
           "location": "Miami",
@@ -331,10 +331,10 @@
         {
           "abbreviation": "NO",
           "emoji": {
-            "default": ":fleur_de_lis:",
+            "default": ":trumpet:",
             "slack": ":fleur_de_lis:",
-            "twitter": ":fleur_de_lis:",
-            "alternates": []
+            "twitter": ":trumpet:",
+            "alternates": [":fleur_de_lis:", ":tada:", ":trumpet:"]
             },
           "league": "NBA",
           "location": "New Orleans",
@@ -367,10 +367,10 @@
         {
           "abbreviation": "OKC",
           "emoji": {
-            "default": ":thunder_cloud_and_rain:",
+            "default": ":zap:",
             "slack": ":thunder_cloud_and_rain:",
             "twitter": ":thunder_cloud_and_rain:",
-            "alternates": []
+            "alternates": [":thunder_cloud_and_rain:", ":cloud_lightning:", ":zap:"]
             },
           "league": "NBA",
           "location": "Oklahoma City",
@@ -475,10 +475,10 @@
         {
           "abbreviation": "SA",
           "emoji": {
-            "default": ":keycap_star:",
+            "default": ":eight_pointed_black_star:",
             "slack": ":keycap_star:",
-            "twitter": ":keycap_star:",
-            "alternates": [":eight_spoked_asterisk:"]
+            "twitter": ":eight_pointed_black_star:",
+            "alternates": [":eight_spoked_asterisk:", ":keycap_star:", ":eight_pointed_black_star:"]
             },
           "league": "NBA",
           "location": "San Antonio",
@@ -733,10 +733,10 @@
         {
           "abbreviation": "DET",
           "emoji": {
-            "default": ":lion_face:",
+            "default": ":oncoming_automobile:",
             "slack": ":lion_face:",
-            "twitter": ":lion_face:",
-            "alternates": []
+            "twitter": ":oncoming_automobile:",
+            "alternates": [":lion_face", ":oncoming_automobile:"]
             },
           "league": "NFL",
           "location": "Detroit",
@@ -751,10 +751,10 @@
         {
           "abbreviation": "GB",
           "emoji": {
-            "default": ":cheese_wedge:",
+            "default": ":baggage_claim:",
             "slack": ":cheese_wedge:",
-            "twitter": ":cheese_wedge:",
-            "alternates": []
+            "twitter": ":baggage_claim:",
+            "alternates": [":cheese:"]
             },
           "league": "NFL",
           "location": "Green Bay",
@@ -769,10 +769,10 @@
         {
           "abbreviation": "HOU",
           "emoji": {
-            "default": ":oil_drum:",
+            "default": ":fuelpump:",
             "slack": ":oil_drum:",
-            "twitter": ":oil_drum:",
-            "alternates": [":fuelpump:"]
+            "twitter": ":fuelpump:",
+            "alternates": [":fuelpump:", ":oil:", ":oil_drum:"]
             },
           "league": "NFL",
           "location": "Houston",
@@ -823,10 +823,10 @@
         {
           "abbreviation": "KC",
           "emoji": {
-            "default": ":bow_and_arrow:",
+            "default": ":meat_on_bone:",
             "slack": ":bow_and_arrow:",
             "twitter": ":bow_and_arrow:",
-            "alternates": []
+            "alternates": [":meat_on_bone:"]
             },
           "league": "NFL",
           "location": "Kansas City",
@@ -913,10 +913,10 @@
         {
           "abbreviation": "NE",
           "emoji": {
-            "default": ":flag-us:",
+            "default": ":barber:",
             "slack": ":flag-us:",
-            "twitter": ":flag-us:",
-            "alternates": []
+            "twitter": ":flag_us:",
+            "alternates": [":barber:", ":flag_us:"]
             },
           "league": "NFL",
           "location": "New England",
@@ -931,10 +931,10 @@
         {
           "abbreviation": "NO",
           "emoji": {
-            "default": ":fleur_de_lis:",
+            "default": ":trumpet:",
             "slack": ":fleur_de_lis:",
-            "twitter": ":fleur_de_lis:",
-            "alternates": []
+            "twitter": ":trumpet:",
+            "alternates": [":fleur_de_lis", ":tada:", ":trumpet:"]
             },
           "league": "NFL",
           "location": "New Orleans",
@@ -949,10 +949,10 @@
         {
           "abbreviation": "OAK",
           "emoji": {
-            "default": ":skull_and_crossbones:",
+            "default": ":skull:",
             "slack": ":skull_and_crossbones:",
-            "twitter": ":skull_and_crossbones:",
-            "alternates": []
+            "twitter": ":skull:",
+            "alternates": [":skull:", ":skull_and_crossbones:"]
             },
           "league": "NFL",
           "location": "Oakland",
@@ -1003,10 +1003,10 @@
         {
           "abbreviation": "SD",
           "emoji": {
-            "default": ":zap:",
+            "default": ":battery:",
             "slack": ":zap:",
             "twitter": ":zap:",
-            "alternates": [":battery:", ":electric_plug:"]
+            "alternates": [":battery:", ":electric_plug:", ":zap:"]
             },
           "league": "NFL",
           "location": "San Diego",
@@ -1021,10 +1021,10 @@
         {
           "abbreviation": "SF",
           "emoji": {
-            "default": ":pick:",
+            "default": ":bridge_at_night:",
             "slack": ":pick:",
-            "twitter": ":pick:",
-            "alternates": []
+            "twitter": ":bridge_at_night:",
+            "alternates": [":hammer_pick:"]
             },
           "league": "NFL",
           "location": "San Francisco",
@@ -1111,10 +1111,10 @@
         {
           "abbreviation": "WAS",
           "emoji": {
-            "default": ":classical_building:",
+            "default": ":cherry_blossom:",
             "slack": ":classical_building:",
-            "twitter": ":classical_building:",
-            "alternates": [":cherry_blossom:"]
+            "twitter": ":cherry_blossom:",
+            "alternates": [":cherry_blossom:", ":classical_building:"]
             },
           "league": "NFL",
           "location": "Washington",
@@ -1261,10 +1261,10 @@
         {
           "abbreviation": "COL",
           "emoji": {
-            "default": ":snow_capped_mountain:",
+            "default": ":snowflake:",
             "slack": ":snow_capped_mountain:",
-            "twitter": ":snow_capped_mountain:",
-            "alternates": []
+            "twitter": ":snowflake:",
+            "alternates": [":snowflake:", ":snow_capped_mountain:"]
             },
           "league": "NHL",
           "location": "Colorado",
@@ -1333,10 +1333,10 @@
         {
           "abbreviation": "EDM",
           "emoji": {
-            "default": ":oil_drum:",
+            "default": ":fuelpump:",
             "slack": ":oil_drum:",
-            "twitter": ":oil_drum:",
-            "alternates": [":fuelpump:"]
+            "twitter": ":fuelpump:",
+            "alternates": [":fuelpump:", ":oil:", ":oil_drum:"]
             },
           "league": "NHL",
           "location": "Edmonton",
@@ -1405,9 +1405,9 @@
         {
           "abbreviation": "MON",
           "emoji": {
-            "default": ":flag-ca:",
+            "default": ":flag_ca:",
             "slack": ":flag-ca:",
-            "twitter": ":flag-ca:",
+            "twitter": ":flag_ca:",
             "alternates": []
             },
           "league": "NHL",
@@ -1423,10 +1423,10 @@
         {
           "abbreviation": "NYI",
           "emoji": {
-            "default": ":desert_island:",
+            "default": ":circus_tent:",
             "slack": ":desert_island:",
-            "twitter": ":desert_island:",
-            "alternates": []
+            "twitter": ":circus_tent:",
+            "alternates": [":circus_tent:", ":desert_island:"]
             },
           "league": "NHL",
           "location": "New York",
@@ -1495,10 +1495,10 @@
         {
           "abbreviation": "OTT",
           "emoji": {
-            "default": ":shield:",
+            "default": ":beginner:",
             "slack": ":shield:",
-            "twitter": ":shield:",
-            "alternates": []
+            "twitter": ":beginner:",
+            "alternates": [":beginner:", ":shield:"]
             },
           "league": "NHL",
           "location": "Ottawa",
@@ -1621,10 +1621,10 @@
         {
           "abbreviation": "VAN",
           "emoji": {
-            "default": ":skier:",
+            "default": ":snowboarder:",
             "slack": ":skier:",
-            "twitter": ":skier:",
-            "alternates": [":mountain:"]
+            "twitter": ":snowboarder:",
+            "alternates": [":mountain:", ":snowboarder:", ":ski:", ":skier:"]
             },
           "league": "NHL",
           "location": "Vancouver",
