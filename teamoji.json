@@ -8,6 +8,8 @@
           "abbreviation": "ATL",
           "emoji": {
             "default": ":bird:",
+            "slack": ":bird:",
+            "twitter": ":bird:",
             "alternates": []
             },
           "league": "NBA",
@@ -24,6 +26,8 @@
           "abbreviation": "BOS",
           "emoji": {
             "default": ":four_leaf_clover:",
+            "slack": ":four_leaf_clover:",
+            "twitter": ":four_leaf_clover:",
             "alternates": [":shamrock:"]
             },
           "league": "NBA",
@@ -40,6 +44,8 @@
           "abbreviation": "BK",
           "emoji": {
             "default": ":spider_web:",
+            "slack": ":spider_web:",
+            "twitter": ":spider_web:",
             "alternates": []
             },
           "league": "NBA",
@@ -56,6 +62,8 @@
           "abbreviation": "CHA",
           "emoji": {
             "default": ":bee:",
+            "slack": ":bee:",
+            "twitter": ":bee:",
             "alternates": []
             },
           "league": "NBA",
@@ -72,6 +80,8 @@
           "abbreviation": "CHI",
           "emoji": {
             "default": ":cow:",
+            "slack": ":cow:",
+            "twitter": ":cow:",
             "alternates": []
             },
           "league": "NBA",
@@ -88,6 +98,8 @@
           "abbreviation": "CLE",
           "emoji": {
             "default": ":crossed_swords:",
+            "slack": ":crossed_swords:",
+            "twitter": ":crossed_swords:",
             "alternates": []
             },
           "league": "NBA",
@@ -104,6 +116,8 @@
           "abbreviation": "DAL",
           "emoji": {
             "default": ":flag-cu:",
+            "slack": ":flag-cu:",
+            "twitter": ":flag-cu:",
             "alternates": []
             },
           "league": "NBA",
@@ -120,6 +134,8 @@
           "abbreviation": "DEN",
           "emoji": {
             "default": ":pick:",
+            "slack": ":pick:",
+            "twitter": ":pick:",
             "alternates": []
             },
           "league": "NBA",
@@ -136,6 +152,8 @@
           "abbreviation": "DET",
           "emoji": {
             "default": ":blue_car:",
+            "slack": ":blue_car:",
+            "twitter": ":blue_car:",
             "alternates": []
             },
           "league": "NBA",
@@ -152,6 +170,8 @@
           "abbreviation": "GS",
           "emoji": {
             "default": ":bridge_at_night:",
+            "slack": ":bridge_at_night:",
+            "twitter": ":bridge_at_night:",
             "alternates": []
             },
           "league": "NBA",
@@ -168,6 +188,8 @@
           "abbreviation": "HOU",
           "emoji": {
             "default": ":rocket:",
+            "slack": ":rocket:",
+            "twitter": ":rocket:",
             "alternates": []
             },
           "league": "NBA",
@@ -184,6 +206,8 @@
           "abbreviation": "IND",
           "emoji": {
             "default": ":footprints:",
+            "slack": ":footprints:",
+            "twitter": ":footprints:",
             "alternates": []
             },
           "league": "NBA",
@@ -200,6 +224,8 @@
           "abbreviation": "LAC",
           "emoji": {
             "default": ":scissors:",
+            "slack": ":scissors:",
+            "twitter": ":scissors:",
             "alternates": []
             },
           "league": "NBA",
@@ -216,6 +242,8 @@
           "abbreviation": "LAL",
           "emoji": {
             "default": ":sunglasses:",
+            "slack": ":sunglasses:",
+            "twitter": ":sunglasses:",
             "alternates": [":movie_camera:", ""]
             },
           "league": "NBA",
@@ -232,6 +260,8 @@
           "abbreviation": "MEM",
           "emoji": {
             "default": ":bear:",
+            "slack": ":bear:",
+            "twitter": ":bear:",
             "alternates": []
             },
           "league": "NBA",
@@ -248,6 +278,8 @@
           "abbreviation": "MIA",
           "emoji": {
             "default": ":thermometer:",
+            "slack": ":thermometer:",
+            "twitter": ":thermometer:",
             "alternates": [":fire:", ":hot_pepper:", ":hotsprings:"]
             },
           "league": "NBA",
@@ -264,6 +296,8 @@
           "abbreviation": "MIL",
           "emoji": {
             "default": ":beer:",
+            "slack": ":beer:",
+            "twitter": ":beer:",
             "alternates": []
             },
           "league": "NBA",
@@ -280,6 +314,8 @@
           "abbreviation": "MIN",
           "emoji": {
             "default": ":wolf:",
+            "slack": ":wolf:",
+            "twitter": ":wolf:",
             "alternates": []
             },
           "league": "NBA",
@@ -296,6 +332,8 @@
           "abbreviation": "NO",
           "emoji": {
             "default": ":fleur_de_lis:",
+            "slack": ":fleur_de_lis:",
+            "twitter": ":fleur_de_lis:",
             "alternates": []
             },
           "league": "NBA",
@@ -312,6 +350,8 @@
           "abbreviation": "NY",
           "emoji": {
             "default": ":statue_of_liberty:",
+            "slack": ":statue_of_liberty:",
+            "twitter": ":statue_of_liberty:",
             "alternates": []
             },
           "league": "NBA",
@@ -328,6 +368,8 @@
           "abbreviation": "OKC",
           "emoji": {
             "default": ":thunder_cloud_and_rain:",
+            "slack": ":thunder_cloud_and_rain:",
+            "twitter": ":thunder_cloud_and_rain:",
             "alternates": []
             },
           "league": "NBA",
@@ -344,6 +386,8 @@
           "abbreviation": "ORL",
           "emoji": {
             "default": ":tophat:",
+            "slack": ":tophat:",
+            "twitter": ":tophat:",
             "alternates": [":rabbit:", ":man_in_business_suit_levitating:"]
             },
           "league": "NBA",
@@ -360,6 +404,8 @@
           "abbreviation": "PHI",
           "emoji": {
             "default": ":bell:",
+            "slack": ":bell:",
+            "twitter": ":bell:",
             "alternates": []
             },
           "league": "NBA",
@@ -376,6 +422,8 @@
           "abbreviation": "PHO",
           "emoji": {
             "default": ":sunny:",
+            "slack": ":sunny:",
+            "twitter": ":sunny:",
             "alternates": []
             },
           "league": "NBA",
@@ -392,6 +440,8 @@
           "abbreviation": "POR",
           "emoji": {
             "default": ":mountain_bicyclist:",
+            "slack": ":mountain_bicyclist:",
+            "twitter": ":mountain_bicyclist:",
             "alternates": []
             },
           "league": "NBA",
@@ -408,6 +458,8 @@
           "abbreviation": "SAC",
           "emoji": {
             "default": ":crown:",
+            "slack": ":crown:",
+            "twitter": ":crown:",
             "alternates": []
             },
           "league": "NBA",
@@ -424,6 +476,8 @@
           "abbreviation": "SA",
           "emoji": {
             "default": ":keycap_star:",
+            "slack": ":keycap_star:",
+            "twitter": ":keycap_star:",
             "alternates": [":eight_spoked_asterisk:"]
             },
           "league": "NBA",
@@ -440,6 +494,8 @@
           "abbreviation": "TOR",
           "emoji": {
             "default": ":dragon:",
+            "slack": ":dragon:",
+            "twitter": ":dragon:",
             "alternates": []
             },
           "league": "NBA",
@@ -456,6 +512,8 @@
           "abbreviation": "UTA",
           "emoji": {
             "default": ":saxophone:",
+            "slack": ":saxophone:",
+            "twitter": ":saxophone:",
             "alternates": []
             },
           "league": "NBA",
@@ -472,6 +530,8 @@
           "abbreviation": "WAS",
           "emoji": {
             "default": ":crystal_ball:",
+            "slack": ":crystal_ball:",
+            "twitter": ":crystal_ball:",
             "alternates": []
             },
           "league": "NBA",
@@ -494,6 +554,8 @@
           "abbreviation": "ARI",
           "emoji": {
             "default": ":cactus:",
+            "slack": ":cactus:",
+            "twitter": ":cactus:",
             "alternates": []
             },
           "league": "NFL",
@@ -510,6 +572,8 @@
           "abbreviation": "ATL",
           "emoji": {
             "default": ":bird:",
+            "slack": ":bird:",
+            "twitter": ":bird:",
             "alternates": []
             },
           "league": "NFL",
@@ -526,6 +590,8 @@
           "abbreviation": "BAL",
           "emoji": {
             "default": ":electric_plug:",
+            "slack": ":electric_plug:",
+            "twitter": ":electric_plug:",
             "alternates": [":gun:", ":derelict_house_building:"]
             },
           "league": "NFL",
@@ -542,6 +608,8 @@
           "abbreviation": "BUF",
           "emoji": {
             "default": ":water_buffalo:",
+            "slack": ":water_buffalo:",
+            "twitter": ":water_buffalo:",
             "alternates": []
             },
           "league": "NFL",
@@ -558,6 +626,8 @@
           "abbreviation": "CAR",
           "emoji": {
             "default": ":cat:",
+            "slack": ":cat:",
+            "twitter": ":cat:",
             "alternates": []
             },
           "league": "NFL",
@@ -574,6 +644,8 @@
           "abbreviation": "CHI",
           "emoji": {
             "default": ":bear:",
+            "slack": ":bear:",
+            "twitter": ":bear:",
             "alternates": []
             },
           "league": "NFL",
@@ -590,6 +662,8 @@
           "abbreviation": "CIN",
           "emoji": {
             "default": ":tiger:",
+            "slack": ":tiger:",
+            "twitter": ":tiger:",
             "alternates": [":tiger2:"]
             },
           "league": "NFL",
@@ -606,6 +680,8 @@
           "abbreviation": "CLE",
           "emoji": {
             "default": ":poop:",
+            "slack": ":poop:",
+            "twitter": ":poop:",
             "alternates": []
             },
           "league": "NFL",
@@ -622,6 +698,8 @@
           "abbreviation": "DAL",
           "emoji": {
             "default": ":cow:",
+            "slack": ":cow:",
+            "twitter": ":cow:",
             "alternates": []
             },
           "league": "NFL",
@@ -638,6 +716,8 @@
           "abbreviation": "DEN",
           "emoji": {
             "default": ":horse_racing:",
+            "slack": ":horse_racing:",
+            "twitter": ":horse_racing:",
             "alternates": []
             },
           "league": "NFL",
@@ -654,6 +734,8 @@
           "abbreviation": "DET",
           "emoji": {
             "default": ":lion_face:",
+            "slack": ":lion_face:",
+            "twitter": ":lion_face:",
             "alternates": []
             },
           "league": "NFL",
@@ -670,6 +752,8 @@
           "abbreviation": "GB",
           "emoji": {
             "default": ":cheese_wedge:",
+            "slack": ":cheese_wedge:",
+            "twitter": ":cheese_wedge:",
             "alternates": []
             },
           "league": "NFL",
@@ -686,6 +770,8 @@
           "abbreviation": "HOU",
           "emoji": {
             "default": ":oil_drum:",
+            "slack": ":oil_drum:",
+            "twitter": ":oil_drum:",
             "alternates": [":fuelpump:"]
             },
           "league": "NFL",
@@ -702,6 +788,8 @@
           "abbreviation": "IND",
           "emoji": {
             "default": ":horse:",
+            "slack": ":horse:",
+            "twitter": ":horse:",
             "alternates": []
             },
           "league": "NFL",
@@ -718,6 +806,8 @@
           "abbreviation": "JAC",
           "emoji": {
             "default": ":tiger2:",
+            "slack": ":tiger2:",
+            "twitter": ":tiger2:",
             "alternates": []
             },
           "league": "NFL",
@@ -734,6 +824,8 @@
           "abbreviation": "KC",
           "emoji": {
             "default": ":bow_and_arrow:",
+            "slack": ":bow_and_arrow:",
+            "twitter": ":bow_and_arrow:",
             "alternates": []
             },
           "league": "NFL",
@@ -750,6 +842,8 @@
           "abbreviation": "MIA",
           "emoji": {
             "default": ":dolphin:",
+            "slack": ":dolphin:",
+            "twitter": ":dolphin:",
             "alternates": []
             },
           "league": "NFL",
@@ -766,6 +860,8 @@
           "abbreviation": "MIN",
           "emoji": {
             "default": ":rowboat:",
+            "slack": ":rowboat:",
+            "twitter": ":rowboat:",
             "alternates": []
             },
           "league": "NFL",
@@ -782,6 +878,8 @@
           "abbreviation": "NYG",
           "emoji": {
             "default": ":mushroom:",
+            "slack": ":mushroom:",
+            "twitter": ":mushroom:",
             "alternates": []
             },
           "league": "NFL",
@@ -798,6 +896,8 @@
           "abbreviation": "NYJ",
           "emoji": {
             "default": ":airplane:",
+            "slack": ":airplane:",
+            "twitter": ":airplane:",
             "alternates": []
             },
           "league": "NFL",
@@ -814,6 +914,8 @@
           "abbreviation": "NE",
           "emoji": {
             "default": ":flag-us:",
+            "slack": ":flag-us:",
+            "twitter": ":flag-us:",
             "alternates": []
             },
           "league": "NFL",
@@ -830,6 +932,8 @@
           "abbreviation": "NO",
           "emoji": {
             "default": ":fleur_de_lis:",
+            "slack": ":fleur_de_lis:",
+            "twitter": ":fleur_de_lis:",
             "alternates": []
             },
           "league": "NFL",
@@ -846,6 +950,8 @@
           "abbreviation": "OAK",
           "emoji": {
             "default": ":skull_and_crossbones:",
+            "slack": ":skull_and_crossbones:",
+            "twitter": ":skull_and_crossbones:",
             "alternates": []
             },
           "league": "NFL",
@@ -862,6 +968,8 @@
           "abbreviation": "PHI",
           "emoji": {
             "default": ":bell:",
+            "slack": ":bell:",
+            "twitter": ":bell:",
             "alternates": []
             },
           "league": "NFL",
@@ -878,6 +986,8 @@
           "abbreviation": "PIT",
           "emoji": {
             "default": ":construction_worker:",
+            "slack": ":construction_worker:",
+            "twitter": ":construction_worker:",
             "alternates": [":factory:"]
             },
           "league": "NFL",
@@ -894,6 +1004,8 @@
           "abbreviation": "SD",
           "emoji": {
             "default": ":zap:",
+            "slack": ":zap:",
+            "twitter": ":zap:",
             "alternates": [":battery:", ":electric_plug:"]
             },
           "league": "NFL",
@@ -910,6 +1022,8 @@
           "abbreviation": "SF",
           "emoji": {
             "default": ":pick:",
+            "slack": ":pick:",
+            "twitter": ":pick:",
             "alternates": []
             },
           "league": "NFL",
@@ -926,6 +1040,8 @@
           "abbreviation": "SEA",
           "emoji": {
             "default": ":ocean:",
+            "slack": ":ocean:",
+            "twitter": ":ocean:",
             "alternates": []
             },
           "league": "NFL",
@@ -942,6 +1058,8 @@
           "abbreviation": "STL",
           "emoji": {
             "default": ":ram:",
+            "slack": ":ram:",
+            "twitter": ":ram:",
             "alternates": []
             },
           "league": "NFL",
@@ -958,6 +1076,8 @@
           "abbreviation": "TB",
           "emoji": {
             "default": ":crossed_swords:",
+            "slack": ":crossed_swords:",
+            "twitter": ":crossed_swords:",
             "alternates": []
             },
           "league": "NFL",
@@ -974,6 +1094,8 @@
           "abbreviation": "TEN",
           "emoji": {
             "default": ":full_moon:",
+            "slack": ":full_moon:",
+            "twitter": ":full_moon:",
             "alternates": []
             },
           "league": "NFL",
@@ -990,6 +1112,8 @@
           "abbreviation": "WAS",
           "emoji": {
             "default": ":classical_building:",
+            "slack": ":classical_building:",
+            "twitter": ":classical_building:",
             "alternates": [":cherry_blossom:"]
             },
           "league": "NFL",
@@ -1012,6 +1136,8 @@
           "abbreviation": "ANA",
           "emoji": {
             "default": ":baby_chick:",
+            "slack": ":baby_chick:",
+            "twitter": ":baby_chick:",
             "alternates": [":hatched_chick:"]
             },
           "league": "NHL",
@@ -1028,6 +1154,8 @@
           "abbreviation": "ARI",
           "emoji": {
             "default": ":wolf:",
+            "slack": ":wolf:",
+            "twitter": ":wolf:",
             "alternates": []
             },
           "league": "NHL",
@@ -1044,6 +1172,8 @@
           "abbreviation": "BOS",
           "emoji": {
             "default": ":bear:",
+            "slack": ":bear:",
+            "twitter": ":bear:",
             "alternates": []
             },
           "league": "NHL",
@@ -1060,6 +1190,8 @@
           "abbreviation": "BUF",
           "emoji": {
             "default": ":crossed_swords:",
+            "slack": ":crossed_swords:",
+            "twitter": ":crossed_swords:",
             "alternates": []
             },
           "league": "NHL",
@@ -1076,6 +1208,8 @@
           "abbreviation": "CAL",
           "emoji": {
             "default": ":fire:",
+            "slack": ":fire:",
+            "twitter": ":fire:",
             "alternates": []
             },
           "league": "NHL",
@@ -1092,6 +1226,8 @@
           "abbreviation": "CAR",
           "emoji": {
             "default": ":cyclone:",
+            "slack": ":cyclone:",
+            "twitter": ":cyclone:",
             "alternates": []
             },
           "league": "NHL",
@@ -1108,6 +1244,8 @@
           "abbreviation": "CHI",
           "emoji": {
             "default": ":bird:",
+            "slack": ":bird:",
+            "twitter": ":bird:",
             "alternates": []
             },
           "league": "NHL",
@@ -1124,6 +1262,8 @@
           "abbreviation": "COL",
           "emoji": {
             "default": ":snow_capped_mountain:",
+            "slack": ":snow_capped_mountain:",
+            "twitter": ":snow_capped_mountain:",
             "alternates": []
             },
           "league": "NHL",
@@ -1140,6 +1280,8 @@
           "abbreviation": "CLB",
           "emoji": {
             "default": ":bee:",
+            "slack": ":bee:",
+            "twitter": ":bee:",
             "alternates": []
             },
           "league": "NHL",
@@ -1156,6 +1298,8 @@
           "abbreviation": "DAL",
           "emoji": {
             "default": ":star:",
+            "slack": ":star:",
+            "twitter": ":star:",
             "alternates": [":stars:"]
             },
           "league": "NHL",
@@ -1172,6 +1316,8 @@
           "abbreviation": "DET",
           "emoji": {
             "default": ":octopus:",
+            "slack": ":octopus:",
+            "twitter": ":octopus:",
             "alternates": [":red_car:"]
             },
           "league": "NHL",
@@ -1188,6 +1334,8 @@
           "abbreviation": "EDM",
           "emoji": {
             "default": ":oil_drum:",
+            "slack": ":oil_drum:",
+            "twitter": ":oil_drum:",
             "alternates": [":fuelpump:"]
             },
           "league": "NHL",
@@ -1204,6 +1352,8 @@
           "abbreviation": "FLA",
           "emoji": {
             "default": ":sunrise:",
+            "slack": ":sunrise:",
+            "twitter": ":sunrise:",
             "alternates": []
             },
           "league": "NHL",
@@ -1220,6 +1370,8 @@
           "abbreviation": "LA",
           "emoji": {
             "default": ":crown:",
+            "slack": ":crown:",
+            "twitter": ":crown:",
             "alternates": []
             },
           "league": "NHL",
@@ -1236,6 +1388,8 @@
           "abbreviation": "MIN",
           "emoji": {
             "default": ":evergreen_tree:",
+            "slack": ":evergreen_tree:",
+            "twitter": ":evergreen_tree:",
             "alternates": [":wolf:"]
             },
           "league": "NHL",
@@ -1252,6 +1406,8 @@
           "abbreviation": "MON",
           "emoji": {
             "default": ":flag-ca:",
+            "slack": ":flag-ca:",
+            "twitter": ":flag-ca:",
             "alternates": []
             },
           "league": "NHL",
@@ -1268,6 +1424,8 @@
           "abbreviation": "NYI",
           "emoji": {
             "default": ":desert_island:",
+            "slack": ":desert_island:",
+            "twitter": ":desert_island:",
             "alternates": []
             },
           "league": "NHL",
@@ -1284,6 +1442,8 @@
           "abbreviation": "NYR",
           "emoji": {
             "default": ":statue_of_liberty:",
+            "slack": ":statue_of_liberty:",
+            "twitter": ":statue_of_liberty:",
             "alternates": []
             },
           "league": "NHL",
@@ -1300,6 +1460,8 @@
           "abbreviation": "NAS",
           "emoji": {
             "default": ":leopard:",
+            "slack": ":leopard:",
+            "twitter": ":leopard:",
             "alternates": [":guitar:"]
             },
           "league": "NHL",
@@ -1316,6 +1478,8 @@
           "abbreviation": "NJ",
           "emoji": {
             "default": ":smiling_imp:",
+            "slack": ":smiling_imp:",
+            "twitter": ":smiling_imp:",
             "alternates": []
             },
           "league": "NHL",
@@ -1332,6 +1496,8 @@
           "abbreviation": "OTT",
           "emoji": {
             "default": ":shield:",
+            "slack": ":shield:",
+            "twitter": ":shield:",
             "alternates": []
             },
           "league": "NHL",
@@ -1348,6 +1514,8 @@
           "abbreviation": "PHI",
           "emoji": {
             "default": ":orange_book:",
+            "slack": ":orange_book:",
+            "twitter": ":orange_book:",
             "alternates": [":small_airplane:"]
             },
           "league": "NHL",
@@ -1364,6 +1532,8 @@
           "abbreviation": "PIT",
           "emoji": {
             "default": ":penguin:",
+            "slack": ":penguin:",
+            "twitter": ":penguin:",
             "alternates": []
             },
           "league": "NHL",
@@ -1380,6 +1550,8 @@
           "abbreviation": "SJ",
           "emoji": {
             "default": ":fish:",
+            "slack": ":fish:",
+            "twitter": ":fish:",
             "alternates": [":computer:", ":shark:"]
             },
           "league": "NHL",
@@ -1396,6 +1568,8 @@
           "abbreviation": "STL",
           "emoji": {
             "default": ":saxophone:",
+            "slack": ":saxophone:",
+            "twitter": ":saxophone:",
             "alternates": []
             },
           "league": "NHL",
@@ -1412,6 +1586,8 @@
           "abbreviation": "TB",
           "emoji": {
             "default": ":zap:",
+            "slack": ":zap:",
+            "twitter": ":zap:",
             "alternates": []
             },
           "league": "NHL",
@@ -1428,6 +1604,8 @@
           "abbreviation": "TOR",
           "emoji": {
             "default": ":maple_leaf:",
+            "slack": ":maple_leaf:",
+            "twitter": ":maple_leaf:",
             "alternates": []
             },
           "league": "NHL",
@@ -1444,6 +1622,8 @@
           "abbreviation": "VAN",
           "emoji": {
             "default": ":skier:",
+            "slack": ":skier:",
+            "twitter": ":skier:",
             "alternates": [":mountain:"]
             },
           "league": "NHL",
@@ -1460,6 +1640,8 @@
           "abbreviation": "WAS",
           "emoji": {
             "default": ":capital_abcd:",
+            "slack": ":capital_abcd:",
+            "twitter": ":capital_abcd:",
             "alternates": []
             },
           "league": "NHL",
@@ -1476,6 +1658,8 @@
           "abbreviation": "WIN",
           "emoji": {
             "default": ":airplane:",
+            "slack": ":airplane:",
+            "twitter": ":airplane:",
             "alternates": []
             },
           "league": "NHL",

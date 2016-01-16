@@ -34,11 +34,13 @@ json.each do |sport|
     rows << [team['name'],
              team['nickname'],
              team['slug'],
+             team['emoji']['slack'],
+             team['emoji']['twitter'],
              team['emoji']['default'],
              team['emoji']['alternates'].join(' ')]
   end
 
-  table = Terminal::Table.new(headings: ['Name', 'Nickname', 'Slug', 'Default', 'Alternates'],
+  table = Terminal::Table.new(headings: ['Name', 'Nickname', 'Slug', 'Slack', 'Twitter', 'Default', 'Alternates'],
                               rows: rows,
                               style: { border_i: '-' })
 
