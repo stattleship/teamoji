@@ -115,7 +115,7 @@
         {
           "abbreviation": "DAL",
           "emoji": {
-            "default": ":flag-cu:",
+            "default": ":flag_cu:",
             "slack": ":flag-cu:",
             "twitter": ":flag_cu:",
             "alternates": [":flag_cu:"]

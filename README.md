@@ -13,7 +13,7 @@ Your favorite sports teams in emoji
 | Charlotte     | Hornets       | nba-cha | :bee:                    | :bee:                      | :bee:                      |                                                                  |
 | Chicago       | Bulls         | nba-chi | :cow:                    | :cow:                      | :cow:                      |                                                                  |
 | Cleveland     | Cavaliers     | nba-cle | :crossed_swords:         | :crossed_swords:           | :crossed_swords:           |                                                                  |
-| Dallas        | Mavericks     | nba-dal | :flag-cu:                | :flag_cu:                  | :flag-cu:                  | :flag_cu:                                                        |
+| Dallas        | Mavericks     | nba-dal | :flag-cu:                | :flag_cu:                  | :flag_cu:                  | :flag_cu:                                                        |
 | Denver        | Nuggets       | nba-den | :pick:                   | :sunrise_over_mountains:   | :sunrise_over_mountains:   | :hammer_pick:                                                    |
 | Detroit       | Pistons       | nba-det | :blue_car:               | :blue_car:                 | :blue_car:                 |                                                                  |
 | Golden State  | Warriors      | nba-gs  | :bridge_at_night:        | :bridge_at_night:          | :bridge_at_night:          |                                                                  |
