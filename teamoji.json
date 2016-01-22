@@ -589,10 +589,10 @@
         {
           "abbreviation": "BAL",
           "emoji": {
-            "default": ":electric_plug:",
-            "slack": ":electric_plug:",
-            "twitter": ":electric_plug:",
-            "alternates": [":gun:", ":derelict_house_building:"]
+            "default": ":crab:",
+            "slack": ":crab:",
+            "twitter": ":crab:",
+            "alternates": []
             },
           "league": "NFL",
           "location": "Baltimore",

@@ -45,7 +45,7 @@ Your favorite sports teams in emoji
 |---------------|------------|---------|------------------------|-----------------------|-----------------------|---------------------------------------|
 | Arizona       | Cardinals  | nfl-ari | :cactus:               | :cactus:              | :cactus:              |                                       |
 | Atlanta       | Falcons    | nfl-atl | :bird:                 | :bird:                | :bird:                |                                       |
-| Baltimore     | Ravens     | nfl-bal | :electric_plug:        | :electric_plug:       | :electric_plug:       | :gun: :derelict_house_building:       |
+| Baltimore     | Ravens     | nfl-bal | :crab:                 | :crab:                | :crab:                |                                       |
 | Buffalo       | Bills      | nfl-buf | :water_buffalo:        | :water_buffalo:       | :water_buffalo:       |                                       |
 | Carolina      | Panthers   | nfl-car | :cat:                  | :cat:                 | :cat:                 |                                       |
 | Chicago       | Bears      | nfl-chi | :bear:                 | :bear:                | :bear:                |                                       |
