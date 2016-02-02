@@ -61,9 +61,9 @@
         {
           "abbreviation": "CHA",
           "emoji": {
-            "default": ":bee:",
+            "default": ":honeybee:",
             "slack": ":bee:",
-            "twitter": ":bee:",
+            "twitter": ":honeybee:",
             "alternates": []
             },
           "league": "NBA",
@@ -97,9 +97,9 @@
         {
           "abbreviation": "CLE",
           "emoji": {
-            "default": ":crossed_swords:",
+            "default": ":guitar:",
             "slack": ":crossed_swords:",
-            "twitter": ":crossed_swords:",
+            "twitter": ":guitar:",
             "alternates": []
             },
           "league": "NBA",
@@ -205,10 +205,10 @@
         {
           "abbreviation": "IND",
           "emoji": {
-            "default": ":footprints:",
+            "default": ":car:",
             "slack": ":footprints:",
-            "twitter": ":footprints:",
-            "alternates": []
+            "twitter": ":car:",
+            "alternates": [":racing_car:", ":red_car"]
             },
           "league": "NBA",
           "location": "Indiana",
@@ -589,9 +589,9 @@
         {
           "abbreviation": "BAL",
           "emoji": {
-            "default": ":crab:",
+            "default": ":notebook:",
             "slack": ":crab:",
-            "twitter": ":crab:",
+            "twitter": ":notebook:",
             "alternates": []
             },
           "league": "NFL",
@@ -825,7 +825,7 @@
           "emoji": {
             "default": ":meat_on_bone:",
             "slack": ":bow_and_arrow:",
-            "twitter": ":bow_and_arrow:",
+            "twitter": ":meat_on_bone:",
             "alternates": [":meat_on_bone:"]
             },
           "league": "NFL",
@@ -915,7 +915,7 @@
           "emoji": {
             "default": ":barber:",
             "slack": ":flag-us:",
-            "twitter": ":flag_us:",
+            "twitter": ":barber:",
             "alternates": [":barber:", ":flag_us:"]
             },
           "league": "NFL",
@@ -1075,9 +1075,9 @@
         {
           "abbreviation": "TB",
           "emoji": {
-            "default": ":crossed_swords:",
+            "default": ":ship:",
             "slack": ":crossed_swords:",
-            "twitter": ":crossed_swords:",
+            "twitter": ":ship:",
             "alternates": []
             },
           "league": "NFL",
@@ -1189,9 +1189,9 @@
         {
           "abbreviation": "BUF",
           "emoji": {
-            "default": ":crossed_swords:",
+            "default": ":water_buffalo:",
             "slack": ":crossed_swords:",
-            "twitter": ":crossed_swords:",
+            "twitter": ":water_buffalo:",
             "alternates": []
             },
           "league": "NHL",
@@ -1279,9 +1279,9 @@
         {
           "abbreviation": "CLB",
           "emoji": {
-            "default": ":bee:",
+            "default": ":honeybee:",
             "slack": ":bee:",
-            "twitter": ":bee:",
+            "twitter": ":honeybee:",
             "alternates": []
             },
           "league": "NHL",
@@ -1405,9 +1405,9 @@
         {
           "abbreviation": "MON",
           "emoji": {
-            "default": ":flag_ca:",
+            "default": ":copyright:",
             "slack": ":flag-ca:",
-            "twitter": ":flag_ca:",
+            "twitter": ":copyright:",
             "alternates": []
             },
           "league": "NHL",
