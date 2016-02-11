@@ -10,7 +10,7 @@ Your favorite sports teams in emoji
 | Atlanta       | Hawks         | nba-atl | :bird:                   | :bird:                     | :bird:                     |                                                                  |
 | Boston        | Celtics       | nba-bos | :four_leaf_clover:       | :four_leaf_clover:         | :four_leaf_clover:         | :shamrock:                                                       |
 | Brooklyn      | Nets          | nba-bk  | :spider_web:             | :circus_tent:              | :circus_tent:              | :circus_tent: :hotdog:                                           |
-| Charlotte     | Hornets       | nba-cha | :bee:                    | :bee:                      | :bee:                      |                                                                  |
+| Charlotte     | Hornets       | nba-cha | :bee:                    | :honeybee:                 | :bee:                      |                                                                  |
 | Chicago       | Bulls         | nba-chi | :cow:                    | :cow:                      | :cow:                      |                                                                  |
 | Cleveland     | Cavaliers     | nba-cle | :crossed_swords:         | :crossed_swords:           | :crossed_swords:           |                                                                  |
 | Dallas        | Mavericks     | nba-dal | :flag-cu:                | :flag_cu:                  | :flag_cu:                  | :flag_cu:                                                        |
@@ -89,7 +89,7 @@ Your favorite sports teams in emoji
 | Carolina     | Hurricanes   | nhl-car | :cyclone:              | :cyclone:           | :cyclone:           |                                        |
 | Chicago      | Blackhawks   | nhl-chi | :bird:                 | :bird:              | :bird:              |                                        |
 | Colorado     | Avalanche    | nhl-col | :snow_capped_mountain: | :snowflake:         | :snowflake:         | :snowflake: :snow_capped_mountain:     |
-| Columbus     | Blue Jackets | nhl-clb | :bee:                  | :bee:               | :bee:               |                                        |
+| Columbus     | Blue Jackets | nhl-clb | :bee:                  | :honeybee:          | :bee:               |                                        |
 | Dallas       | Stars        | nhl-dal | :star:                 | :star:              | :star:              | :stars:                                |
 | Detroit      | Red Wings    | nhl-det | :octopus:              | :octopus:           | :octopus:           | :red_car:                              |
 | Edmonton     | Oilers       | nhl-edm | :oil_drum:             | :fuelpump:          | :fuelpump:          | :fuelpump: :oil: :oil_drum:            |

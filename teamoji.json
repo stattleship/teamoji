@@ -61,7 +61,7 @@
         {
           "abbreviation": "CHA",
           "emoji": {
-            "default": ":honeybee:",
+            "default": ":bee:",
             "slack": ":bee:",
             "twitter": ":honeybee:",
             "alternates": []
@@ -1279,7 +1279,7 @@
         {
           "abbreviation": "CLB",
           "emoji": {
-            "default": ":honeybee:",
+            "default": ":bee:",
             "slack": ":bee:",
             "twitter": ":honeybee:",
             "alternates": []
