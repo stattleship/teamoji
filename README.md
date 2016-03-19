@@ -3,6 +3,42 @@ Your favorite sports teams in emoji
 
 [Glickman](https://github.com/stattleship/glickman) uses teamojis in its sports slackbot commands powered by our [Stattleship API](https://www.stattleship.com).
 
+## :baseball: Baseball
+
+| Name           | Nickname     | Slug    | Slack              | Twitter            | Default            | Alternates |
+|----------------|--------------|---------|--------------------|--------------------|--------------------|------------|
+| Arizona        | Diamondbacks | mlb-ari | :snake:            | :snake:            | :snake:            |            |
+| Atlanta        | Braves       | mlb-atl |                    |                    |                    |            |
+| Baltimore      | Orioles      | mlb-bal |                    |                    |                    |            |
+| Boston         | Red Sox      | mlb-bos |                    |                    |                    |            |
+| Chi. Cubs      | Cubs         | mlb-chc | :bear:             | :bear:             | :bear:             |            |
+| Chi. White Sox | White Sox    | mlb-chw |                    |                    |                    |            |
+| Cincinnati     | Reds         | mlb-cin | :red_circle:       | :red_circle:       | :red_circle:       |            |
+| Cleveland      | Indians      | mlb-cle |                    |                    |                    |            |
+| Colorado       | Rockies      | mlb-col | :mountain:         | :mountain:         | :mountain:         |            |
+| Detroit        | Tigers       | mlb-det | :tiger:            | :tiger:            | :tiger:            |            |
+| Houston        | Astros       | mlb-hou | :rocket:           | :rocket:           | :rocket:           |            |
+| Kansas City    | Royals       | mlb-kc  | :crown:            | :crown:            | :crown:            |            |
+| LA Angels      | Angels       | mlb-laa | :angel:            | :angel:            | :angel:            |            |
+| LA Dodgers     | Dodgers      | mlb-la  |                    |                    |                    |            |
+| Miami          | Marlins      | mlb-mia | :fish:             | :fish:             | :fish:             |            |
+| Milwaukee      | Brewers      | mlb-mil | :beer:             | :beer:             | :beer:             |            |
+| Minnesota      | Twins        | mlb-min |                    |                    |                    |            |
+| NY Mets        | Mets         | mlb-nym |                    |                    |                    |            |
+| NY Yankees     | Yankees      | mlb-nyy |                    |                    |                    |            |
+| Oakland        | Athletics    | mlb-oak | :athletic_shoe:    | :athletic_shoe:    | :athletic_shoe:    |            |
+| Philadelphia   | Phillies     | mlb-phi |                    |                    |                    |            |
+| Pittsburgh     | Pirates      | mlb-pit |                    |                    |                    |            |
+| San Diego      | Padres       | mlb-sd  |                    |                    |                    |            |
+| San Francisco  | Giants       | mlb-sf  |                    |                    |                    |            |
+| Seattle        | Mariners     | mlb-sea | :ship:             | :ship:             | :ship:             |            |
+| St. Louis      | Cardinals    | mlb-stl |                    |                    |                    |            |
+| Tampa Bay      | Rays         | mlb-tb  |                    |                    |                    |            |
+| Texas          | Rangers      | mlb-tex |                    |                    |                    |            |
+| Toronto        | Blue Jays    | mlb-tor |                    |                    |                    |            |
+| Washington     | Nationals    | mlb-was |                    |                    |                    |            |
+-----------------------------------------------------------------------------------------------------------------------
+
 ## :basketball: Basketball
 
 | Name          | Nickname      | Slug    | Slack                    | Twitter                    | Default                    | Alternates                                                       |

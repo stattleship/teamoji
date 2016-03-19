@@ -8,11 +8,10 @@
           "abbreviation":"ARI",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":snake:",
+            "slack":":snake:",
+            "twitter":":snake:"
           },
           "league":"MLB",
           "location":"Arizona",
@@ -88,11 +87,10 @@
           "abbreviation":"CHC",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":bear:",
+            "slack":":bear:",
+            "twitter":":bear:"
           },
           "league":"MLB",
           "location":"Chicago",
@@ -128,11 +126,10 @@
           "abbreviation":"CIN",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":red_circle:",
+            "slack":":red_circle:",
+            "twitter":":red_circle:"
           },
           "league":"MLB",
           "location":"Cincinnati",
@@ -168,11 +165,10 @@
           "abbreviation":"COL",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":mountain:",
+            "slack":":mountain:",
+            "twitter":":mountain:"
           },
           "league":"MLB",
           "location":"Colorado",
@@ -188,11 +184,10 @@
           "abbreviation":"DET",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":tiger:",
+            "slack":":tiger:",
+            "twitter":":tiger:"
           },
           "league":"MLB",
           "location":"Detroit",
@@ -208,11 +203,10 @@
           "abbreviation":"HOU",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":rocket:",
+            "slack":":rocket:",
+            "twitter":":rocket:"
           },
           "league":"MLB",
           "location":"Houston",
@@ -228,11 +222,10 @@
           "abbreviation":"KC",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":crown:",
+            "slack":":crown:",
+            "twitter":":crown:"
           },
           "league":"MLB",
           "location":"Kansas City",
@@ -248,11 +241,10 @@
           "abbreviation":"LAA",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":angel:",
+            "slack":":angel:",
+            "twitter":":angel:"
           },
           "league":"MLB",
           "location":"Los Angeles",
@@ -288,11 +280,10 @@
           "abbreviation":"MIA",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":fish:",
+            "slack":":fish:",
+            "twitter":":fish:"
           },
           "league":"MLB",
           "location":"Miami",
@@ -308,11 +299,10 @@
           "abbreviation":"MIL",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":beer:",
+            "slack":":beer:",
+            "twitter":":beer:"
           },
           "league":"MLB",
           "location":"Milwaukee",
@@ -388,11 +378,10 @@
           "abbreviation":"OAK",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":athletic_shoe:",
+            "slack":":athletic_shoe:",
+            "twitter":":athletic_shoe:"
           },
           "league":"MLB",
           "location":"Oakland",
@@ -488,11 +477,10 @@
           "abbreviation":"SEA",
           "emoji":{
             "alternates":[
-              ":shamrock:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":ship:",
+            "slack":":ship:",
+            "twitter":":ship:"
           },
           "league":"MLB",
           "location":"Seattle",
