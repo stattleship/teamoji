@@ -47,9 +47,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":bird:",
+            "slack":":bird:",
+            "twitter":":bird:"
           },
           "league":"MLB",
           "location":"Baltimore",
@@ -259,9 +259,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":palm_tree:",
+            "slack":":palm_tree:",
+            "twitter":":palm_tree:"
           },
           "league":"MLB",
           "location":"Los Angeles",
@@ -392,9 +392,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":bell:",
+            "slack":":bell:",
+            "twitter":":bell:"
           },
           "league":"MLB",
           "location":"Philadelphia",
@@ -449,9 +449,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":bridge_at_night:",
+            "slack":":bridge_at_night:",
+            "twitter":":bridge_at_night:"
           },
           "league":"MLB",
           "location":"San Francisco",
@@ -487,9 +487,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":saxophone:",
+            "slack":":saxophone:",
+            "twitter":":saxophone:"
           },
           "league":"MLB",
           "location":"St. Louis",
@@ -506,9 +506,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":stars:",
+            "slack":":stars:",
+            "twitter":":stars:"
           },
           "league":"MLB",
           "location":"Tampa Bay",
@@ -543,10 +543,11 @@
           "abbreviation":"TOR",
           "emoji":{
             "alternates":[
+              ":blue_heart:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":large_blue_circle:",
+            "slack":":large_blue_circle:",
+            "twitter":":large_blue_circle:"
           },
           "league":"MLB",
           "location":"Toronto",
