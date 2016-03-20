@@ -8,6 +8,7 @@
           "abbreviation":"ARI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":snake:",
             "slack":":snake:",
@@ -27,6 +28,7 @@
           "abbreviation":"ATL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":peach:",
             "slack":":peach:",
@@ -46,6 +48,7 @@
           "abbreviation":"BAL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bird:",
             "slack":":bird:",
@@ -65,10 +68,11 @@
           "abbreviation":"BOS",
           "emoji":{
             "alternates":[
+
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":frog:",
+            "slack":":frog:",
+            "twitter":":frog:"
           },
           "league":"MLB",
           "location":"Boston",
@@ -84,6 +88,7 @@
           "abbreviation":"CHC",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bear:",
             "slack":":bear:",
@@ -103,6 +108,7 @@
           "abbreviation":"CHW",
           "emoji":{
             "alternates":[
+
             ],
             "default":":athletic_shoe:",
             "slack":":athletic_shoe:",
@@ -122,6 +128,7 @@
           "abbreviation":"CIN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":red_circle:",
             "slack":":red_circle:",
@@ -141,6 +148,7 @@
           "abbreviation":"CLE",
           "emoji":{
             "alternates":[
+
             ],
             "default":":guitar:",
             "slack":":guitar:",
@@ -160,6 +168,7 @@
           "abbreviation":"COL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":mount_fuji:",
             "slack":":mountain:",
@@ -179,6 +188,7 @@
           "abbreviation":"DET",
           "emoji":{
             "alternates":[
+
             ],
             "default":":tiger:",
             "slack":":tiger:",
@@ -220,6 +230,7 @@
           "abbreviation":"KC",
           "emoji":{
             "alternates":[
+
             ],
             "default":":crown:",
             "slack":":crown:",
@@ -239,6 +250,7 @@
           "abbreviation":"LAA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":angel:",
             "slack":":angel:",
@@ -258,6 +270,7 @@
           "abbreviation":"LA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":palm_tree:",
             "slack":":palm_tree:",
@@ -277,6 +290,7 @@
           "abbreviation":"MIA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":fish:",
             "slack":":fish:",
@@ -296,6 +310,7 @@
           "abbreviation":"MIL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":beer:",
             "slack":":beer:",
@@ -315,6 +330,7 @@
           "abbreviation":"MIN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":gemini:",
             "slack":":gemini:",
@@ -334,6 +350,7 @@
           "abbreviation":"NYM",
           "emoji":{
             "alternates":[
+
             ],
             "default":":metro:",
             "slack":":metro:",
@@ -353,6 +370,7 @@
           "abbreviation":"NYY",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bomb:",
             "slack":":bomb:",
@@ -372,6 +390,7 @@
           "abbreviation":"OAK",
           "emoji":{
             "alternates":[
+
             ],
             "default":":elephant:",
             "slack":":elephant:",
@@ -391,6 +410,7 @@
           "abbreviation":"PHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bell:",
             "slack":":bell:",
@@ -410,6 +430,7 @@
           "abbreviation":"PIT",
           "emoji":{
             "alternates":[
+
             ],
             "default":":four_leaf_clover:",
             "slack":":four_leaf_clover:",
@@ -429,6 +450,7 @@
           "abbreviation":"SD",
           "emoji":{
             "alternates":[
+
             ],
             "default":":four_leaf_clover:",
             "slack":":four_leaf_clover:",
@@ -448,6 +470,7 @@
           "abbreviation":"SF",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bridge_at_night:",
             "slack":":bridge_at_night:",
@@ -467,6 +490,7 @@
           "abbreviation":"SEA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":ship:",
             "slack":":ship:",
@@ -486,6 +510,7 @@
           "abbreviation":"STL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":saxophone:",
             "slack":":saxophone:",
@@ -505,6 +530,7 @@
           "abbreviation":"TB",
           "emoji":{
             "alternates":[
+
             ],
             "default":":stars:",
             "slack":":stars:",
@@ -524,6 +550,7 @@
           "abbreviation":"TEX",
           "emoji":{
             "alternates":[
+
             ],
             "default":":four_leaf_clover:",
             "slack":":four_leaf_clover:",
@@ -563,6 +590,7 @@
           "abbreviation":"WAS",
           "emoji":{
             "alternates":[
+
             ],
             "default":":four_leaf_clover:",
             "slack":":four_leaf_clover:",
@@ -588,6 +616,7 @@
           "abbreviation":"ATL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bird:",
             "slack":":bird:",
@@ -648,6 +677,7 @@
           "abbreviation":"CHA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bee:",
             "slack":":bee:",
@@ -667,6 +697,7 @@
           "abbreviation":"CHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":cow:",
             "slack":":cow:",
@@ -686,6 +717,7 @@
           "abbreviation":"CLE",
           "emoji":{
             "alternates":[
+
             ],
             "default":":guitar:",
             "slack":":crossed_swords:",
@@ -745,6 +777,7 @@
           "abbreviation":"DET",
           "emoji":{
             "alternates":[
+
             ],
             "default":":blue_car:",
             "slack":":blue_car:",
@@ -764,6 +797,7 @@
           "abbreviation":"GS",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bridge_at_night:",
             "slack":":bridge_at_night:",
@@ -783,6 +817,7 @@
           "abbreviation":"HOU",
           "emoji":{
             "alternates":[
+
             ],
             "default":":rocket:",
             "slack":":rocket:",
@@ -823,6 +858,7 @@
           "abbreviation":"LAC",
           "emoji":{
             "alternates":[
+
             ],
             "default":":scissors:",
             "slack":":scissors:",
@@ -863,6 +899,7 @@
           "abbreviation":"MEM",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bear:",
             "slack":":bear:",
@@ -905,6 +942,7 @@
           "abbreviation":"MIL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":beer:",
             "slack":":beer:",
@@ -924,6 +962,7 @@
           "abbreviation":"MIN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":wolf:",
             "slack":":wolf:",
@@ -965,6 +1004,7 @@
           "abbreviation":"NY",
           "emoji":{
             "alternates":[
+
             ],
             "default":":statue_of_liberty:",
             "slack":":statue_of_liberty:",
@@ -1027,6 +1067,7 @@
           "abbreviation":"PHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bell:",
             "slack":":bell:",
@@ -1046,6 +1087,7 @@
           "abbreviation":"PHO",
           "emoji":{
             "alternates":[
+
             ],
             "default":":sunny:",
             "slack":":sunny:",
@@ -1065,6 +1107,7 @@
           "abbreviation":"POR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":mountain_bicyclist:",
             "slack":":mountain_bicyclist:",
@@ -1084,6 +1127,7 @@
           "abbreviation":"SAC",
           "emoji":{
             "alternates":[
+
             ],
             "default":":crown:",
             "slack":":crown:",
@@ -1125,6 +1169,7 @@
           "abbreviation":"TOR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":dragon:",
             "slack":":dragon:",
@@ -1144,6 +1189,7 @@
           "abbreviation":"UTA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":saxophone:",
             "slack":":saxophone:",
@@ -1163,6 +1209,7 @@
           "abbreviation":"WAS",
           "emoji":{
             "alternates":[
+
             ],
             "default":":crystal_ball:",
             "slack":":crystal_ball:",
@@ -1188,6 +1235,7 @@
           "abbreviation":"ARI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":cactus:",
             "slack":":cactus:",
@@ -1207,6 +1255,7 @@
           "abbreviation":"ATL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bird:",
             "slack":":bird:",
@@ -1226,6 +1275,7 @@
           "abbreviation":"BAL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":notebook:",
             "slack":":crab:",
@@ -1245,6 +1295,7 @@
           "abbreviation":"BUF",
           "emoji":{
             "alternates":[
+
             ],
             "default":":water_buffalo:",
             "slack":":water_buffalo:",
@@ -1264,6 +1315,7 @@
           "abbreviation":"CAR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":cat:",
             "slack":":cat:",
@@ -1283,6 +1335,7 @@
           "abbreviation":"CHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bear:",
             "slack":":bear:",
@@ -1342,6 +1395,7 @@
           "abbreviation":"DAL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":cow:",
             "slack":":cow:",
@@ -1361,6 +1415,7 @@
           "abbreviation":"DEN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":horse_racing:",
             "slack":":horse_racing:",
@@ -1443,6 +1498,7 @@
           "abbreviation":"IND",
           "emoji":{
             "alternates":[
+
             ],
             "default":":horse:",
             "slack":":horse:",
@@ -1462,6 +1518,7 @@
           "abbreviation":"JAC",
           "emoji":{
             "alternates":[
+
             ],
             "default":":tiger2:",
             "slack":":tiger2:",
@@ -1501,6 +1558,7 @@
           "abbreviation":"MIA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":dolphin:",
             "slack":":dolphin:",
@@ -1520,6 +1578,7 @@
           "abbreviation":"MIN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":rowboat:",
             "slack":":rowboat:",
@@ -1539,6 +1598,7 @@
           "abbreviation":"NYG",
           "emoji":{
             "alternates":[
+
             ],
             "default":":mushroom:",
             "slack":":mushroom:",
@@ -1558,6 +1618,7 @@
           "abbreviation":"NYJ",
           "emoji":{
             "alternates":[
+
             ],
             "default":":airplane:",
             "slack":":airplane:",
@@ -1641,6 +1702,7 @@
           "abbreviation":"PHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bell:",
             "slack":":bell:",
@@ -1722,6 +1784,7 @@
           "abbreviation":"SEA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":ocean:",
             "slack":":ocean:",
@@ -1741,6 +1804,7 @@
           "abbreviation":"STL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":ram:",
             "slack":":ram:",
@@ -1760,6 +1824,7 @@
           "abbreviation":"TB",
           "emoji":{
             "alternates":[
+
             ],
             "default":":ship:",
             "slack":":crossed_swords:",
@@ -1779,6 +1844,7 @@
           "abbreviation":"TEN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":full_moon:",
             "slack":":full_moon:",
@@ -1845,6 +1911,7 @@
           "abbreviation":"ARI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":wolf:",
             "slack":":wolf:",
@@ -1864,6 +1931,7 @@
           "abbreviation":"BOS",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bear:",
             "slack":":bear:",
@@ -1883,6 +1951,7 @@
           "abbreviation":"BUF",
           "emoji":{
             "alternates":[
+
             ],
             "default":":water_buffalo:",
             "slack":":crossed_swords:",
@@ -1902,6 +1971,7 @@
           "abbreviation":"CAL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":fire:",
             "slack":":fire:",
@@ -1921,6 +1991,7 @@
           "abbreviation":"CAR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":cyclone:",
             "slack":":cyclone:",
@@ -1940,6 +2011,7 @@
           "abbreviation":"CHI",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bird:",
             "slack":":bird:",
@@ -1980,6 +2052,7 @@
           "abbreviation":"CLB",
           "emoji":{
             "alternates":[
+
             ],
             "default":":bee:",
             "slack":":bee:",
@@ -2061,6 +2134,7 @@
           "abbreviation":"FLA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":sunrise:",
             "slack":":sunrise:",
@@ -2080,6 +2154,7 @@
           "abbreviation":"LA",
           "emoji":{
             "alternates":[
+
             ],
             "default":":crown:",
             "slack":":crown:",
@@ -2119,6 +2194,7 @@
           "abbreviation":"MON",
           "emoji":{
             "alternates":[
+
             ],
             "default":":copyright:",
             "slack":":flag-ca:",
@@ -2159,6 +2235,7 @@
           "abbreviation":"NYR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":statue_of_liberty:",
             "slack":":statue_of_liberty:",
@@ -2198,6 +2275,7 @@
           "abbreviation":"NJ",
           "emoji":{
             "alternates":[
+
             ],
             "default":":smiling_imp:",
             "slack":":smiling_imp:",
@@ -2258,6 +2336,7 @@
           "abbreviation":"PIT",
           "emoji":{
             "alternates":[
+
             ],
             "default":":penguin:",
             "slack":":penguin:",
@@ -2298,6 +2377,7 @@
           "abbreviation":"STL",
           "emoji":{
             "alternates":[
+
             ],
             "default":":saxophone:",
             "slack":":saxophone:",
@@ -2317,6 +2397,7 @@
           "abbreviation":"TB",
           "emoji":{
             "alternates":[
+
             ],
             "default":":zap:",
             "slack":":zap:",
@@ -2336,6 +2417,7 @@
           "abbreviation":"TOR",
           "emoji":{
             "alternates":[
+
             ],
             "default":":maple_leaf:",
             "slack":":maple_leaf:",
@@ -2378,6 +2460,7 @@
           "abbreviation":"WAS",
           "emoji":{
             "alternates":[
+
             ],
             "default":":capital_abcd:",
             "slack":":capital_abcd:",
@@ -2397,6 +2480,7 @@
           "abbreviation":"WIN",
           "emoji":{
             "alternates":[
+
             ],
             "default":":airplane:",
             "slack":":airplane:",

@@ -10,7 +10,7 @@ Your favorite sports teams in emoji
 | Arizona        | Diamondbacks | mlb-ari | :snake:             | :snake:             | :snake:             |              |
 | Atlanta        | Braves       | mlb-atl | :peach:             | :peach:             | :peach:             |              |
 | Baltimore      | Orioles      | mlb-bal | :bird:              | :bird:              | :bird:              |              |
-| Boston         | Red Sox      | mlb-bos |                     |                     |                     |              |
+| Boston         | Red Sox      | mlb-bos | :frog:              | :frog:              | :frog:              |              |
 | Chi. Cubs      | Cubs         | mlb-chc | :bear:              | :bear:              | :bear:              |              |
 | Chi. White Sox | White Sox    | mlb-chw | :athletic_shoe:     | :athletic_shoe:     | :athletic_shoe:     |              |
 | Cincinnati     | Reds         | mlb-cin | :red_circle:        | :red_circle:        | :red_circle:        |              |
