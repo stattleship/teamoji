@@ -590,11 +590,12 @@
           "abbreviation":"WAS",
           "emoji":{
             "alternates":[
-
+              ":cherry_blossom:",
+              ":classical_building:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":cherry_blossom:",
+            "slack":":classical_building:",
+            "twitter":":cherry_blossom:"
           },
           "league":"MLB",
           "location":"Washington",
