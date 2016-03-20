@@ -68,7 +68,8 @@
           "abbreviation":"BOS",
           "emoji":{
             "alternates":[
-
+              ":frog:",
+              "::red_circle:"
             ],
             "default":":frog:",
             "slack":":frog:",
@@ -310,7 +311,7 @@
           "abbreviation":"MIL",
           "emoji":{
             "alternates":[
-
+              ":beers:"
             ],
             "default":":beer:",
             "slack":":beer:",
@@ -370,7 +371,7 @@
           "abbreviation":"NYY",
           "emoji":{
             "alternates":[
-
+              ":bomb:"
             ],
             "default":":bomb:",
             "slack":":bomb:",
@@ -430,11 +431,11 @@
           "abbreviation":"PIT",
           "emoji":{
             "alternates":[
-
+              ":tomato:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":tomato:",
+            "slack":":tomato:",
+            "twitter":":tomato:"
           },
           "league":"MLB",
           "location":"Pittsburgh",
@@ -450,11 +451,11 @@
           "abbreviation":"SD",
           "emoji":{
             "alternates":[
-
+              ":ocean:"
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":surfer:",
+            "slack":":surfer:",
+            "twitter":":surfer:"
           },
           "league":"MLB",
           "location":"San Diego",
@@ -510,7 +511,7 @@
           "abbreviation":"STL",
           "emoji":{
             "alternates":[
-
+              ":saxophone:"
             ],
             "default":":saxophone:",
             "slack":":saxophone:",
@@ -552,9 +553,9 @@
             "alternates":[
 
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":horse:",
+            "slack":":horse:",
+            "twitter":":horse:"
           },
           "league":"MLB",
           "location":"Texas",

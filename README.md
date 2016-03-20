@@ -10,7 +10,7 @@ Your favorite sports teams in emoji
 | Arizona        | Diamondbacks | mlb-ari | :snake:              | :snake:             | :snake:             |                                        |
 | Atlanta        | Braves       | mlb-atl | :peach:              | :peach:             | :peach:             |                                        |
 | Baltimore      | Orioles      | mlb-bal | :bird:               | :bird:              | :bird:              |                                        |
-| Boston         | Red Sox      | mlb-bos | :frog:               | :frog:              | :frog:              |                                        |
+| Boston         | Red Sox      | mlb-bos | :frog:               | :frog:              | :frog:              | :frog: :red_circle:                    |
 | Chi. Cubs      | Cubs         | mlb-chc | :bear:               | :bear:              | :bear:              |                                        |
 | Chi. White Sox | White Sox    | mlb-chw | :athletic_shoe:      | :athletic_shoe:     | :athletic_shoe:     |                                        |
 | Cincinnati     | Reds         | mlb-cin | :red_circle:         | :red_circle:        | :red_circle:        |                                        |
@@ -22,21 +22,21 @@ Your favorite sports teams in emoji
 | LA Angels      | Angels       | mlb-laa | :angel:              | :angel:             | :angel:             |                                        |
 | LA Dodgers     | Dodgers      | mlb-la  | :palm_tree:          | :palm_tree:         | :palm_tree:         |                                        |
 | Miami          | Marlins      | mlb-mia | :fish:               | :fish:              | :fish:              |                                        |
-| Milwaukee      | Brewers      | mlb-mil | :beer:               | :beer:              | :beer:              |                                        |
+| Milwaukee      | Brewers      | mlb-mil | :beer:               | :beer:              | :beer:              | :beers:                                |
 | Minnesota      | Twins        | mlb-min | :gemini:             | :gemini:            | :gemini:            |                                        |
 | NY Mets        | Mets         | mlb-nym | :metro:              | :metro:             | :metro:             |                                        |
-| NY Yankees     | Yankees      | mlb-nyy | :bomb:               | :bomb:              | :bomb:              |                                        |
+| NY Yankees     | Yankees      | mlb-nyy | :bomb:               | :bomb:              | :bomb:              | :bomb:                                 |
 | Oakland        | Athletics    | mlb-oak | :elephant:           | :elephant:          | :elephant:          |                                        |
 | Philadelphia   | Phillies     | mlb-phi | :bell:               | :bell:              | :bell:              |                                        |
-| Pittsburgh     | Pirates      | mlb-pit |                      |                     |                     |                                        |
-| San Diego      | Padres       | mlb-sd  |                      |                     |                     |                                        |
+| Pittsburgh     | Pirates      | mlb-pit | :tomato:             | :tomato:            | :tomato:            | :tomato:                               |
+| San Diego      | Padres       | mlb-sd  | :surfer:             | :surfer:            | :surfer:            | :ocean:                                |
 | San Francisco  | Giants       | mlb-sf  | :bridge_at_night:    | :bridge_at_night:   | :bridge_at_night:   |                                        |
 | Seattle        | Mariners     | mlb-sea | :ship:               | :ship:              | :ship:              |                                        |
-| St. Louis      | Cardinals    | mlb-stl | :saxophone:          | :saxophone:         | :saxophone:         |                                        |
+| St. Louis      | Cardinals    | mlb-stl | :saxophone:          | :saxophone:         | :saxophone:         | :saxophone:                            |
 | Tampa Bay      | Rays         | mlb-tb  | :stars:              | :stars:             | :stars:             |                                        |
-| Texas          | Rangers      | mlb-tex |                      |                     |                     |                                        |
+| Texas          | Rangers      | mlb-tex | :horse:              | :horse:             | :horse:             |                                        |
 | Toronto        | Blue Jays    | mlb-tor | :large_blue_circle:  | :large_blue_circle: | :large_blue_circle: | :blue_heart:                           |
-| Washington     | Nationals    | mlb-was | :classical_building: | :cherry_blossom:    | :cherry_blossom:    | :classical_building:, :cherry_blossom: |
+| Washington     | Nationals    | mlb-was | :classical_building: | :cherry_blossom:    | :cherry_blossom:    | :classical_building: :cherry_blossom:  |
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## :basketball: Basketball
