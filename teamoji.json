@@ -142,9 +142,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":guitar:",
+            "slack":":guitar:",
+            "twitter":":guitar:"
           },
           "league":"MLB",
           "location":"Cleveland",
@@ -335,9 +335,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":metro:",
+            "slack":":metro:",
+            "twitter":":metro:"
           },
           "league":"MLB",
           "location":"New York",
@@ -354,9 +354,9 @@
           "emoji":{
             "alternates":[
             ],
-            "default":":four_leaf_clover:",
-            "slack":":four_leaf_clover:",
-            "twitter":":four_leaf_clover:"
+            "default":":bomb:",
+            "slack":":bomb:",
+            "twitter":":bomb:"
           },
           "league":"MLB",
           "location":"New York",
@@ -1322,10 +1322,11 @@
           "abbreviation":"CLE",
           "emoji":{
             "alternates":[
+              ":poop:"
             ],
-            "default":":poop:",
-            "slack":":poop:",
-            "twitter":":poop:"
+            "default":":guitar:",
+            "slack":":guitar:",
+            "twitter":":guitar:"
           },
           "league":"NFL",
           "location":"Cleveland",

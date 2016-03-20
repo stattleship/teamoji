@@ -14,7 +14,7 @@ Your favorite sports teams in emoji
 | Chi. Cubs      | Cubs         | mlb-chc | :bear:              | :bear:              | :bear:              |              |
 | Chi. White Sox | White Sox    | mlb-chw | :athletic_shoe:     | :athletic_shoe:     | :athletic_shoe:     |              |
 | Cincinnati     | Reds         | mlb-cin | :red_circle:        | :red_circle:        | :red_circle:        |              |
-| Cleveland      | Indians      | mlb-cle |                     |                     |                     |              |
+| Cleveland      | Indians      | mlb-cle | :guitar:            | :guitar:            | :guitar:            |              |
 | Colorado       | Rockies      | mlb-col | :mountain:          | :mount_fuji:        | :mount_fuji:        |              |
 | Detroit        | Tigers       | mlb-det | :tiger:             | :tiger:             | :tiger:             |              |
 | Houston        | Astros       | mlb-hou | :star:              | :star:              | :star:              |              |
@@ -24,8 +24,8 @@ Your favorite sports teams in emoji
 | Miami          | Marlins      | mlb-mia | :fish:              | :fish:              | :fish:              |              |
 | Milwaukee      | Brewers      | mlb-mil | :beer:              | :beer:              | :beer:              |              |
 | Minnesota      | Twins        | mlb-min | :gemini:            | :gemini:            | :gemini:            |              |
-| NY Mets        | Mets         | mlb-nym |                     |                     |                     |              |
-| NY Yankees     | Yankees      | mlb-nyy |                     |                     |                     |              |
+| NY Mets        | Mets         | mlb-nym | :metro:             | :metro:             | :metro:             |              |
+| NY Yankees     | Yankees      | mlb-nyy | :bomb:              | :bomb:              | :bomb:              |              |
 | Oakland        | Athletics    | mlb-oak | :elephant:          | :elephant:          | :elephant:          |              |
 | Philadelphia   | Phillies     | mlb-phi | :bell:              | :bell:              | :bell:              |              |
 | Pittsburgh     | Pirates      | mlb-pit |                     |                     |                     |              |
