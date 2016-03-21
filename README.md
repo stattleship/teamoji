@@ -32,7 +32,7 @@ Your favorite sports teams in emoji
 | San Diego      | Padres       | mlb-sd  | :surfer:               | :surfer:            | :surfer:            | :ocean:                                |
 | San Francisco  | Giants       | mlb-sf  | :bridge_at_night:      | :bridge_at_night:   | :bridge_at_night:   |                                        |
 | Seattle        | Mariners     | mlb-sea | :ship:                 | :ship:              | :ship:              |                                        |
-| St. Louis      | Cardinals    | mlb-stl | :saxophone:            | :saxophone:         | :saxophone:         | :saxophone:                            |
+| St. Louis      | Cardinals    | mlb-stl | :black_joker:          | :black_joker:       | :black_joker:       | :black_joker: :saxophone:              |
 | Tampa Bay      | Rays         | mlb-tb  | :stars:                | :stars:             | :stars:             |                                        |
 | Texas          | Rangers      | mlb-tex | :horse:                | :horse:             | :horse:             |                                        |
 | Toronto        | Blue Jays    | mlb-tor | :large_blue_circle:    | :large_blue_circle: | :large_blue_circle: | :blue_heart:                           |
