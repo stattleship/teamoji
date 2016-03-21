@@ -28,7 +28,7 @@ Your favorite sports teams in emoji
 | NY Yankees     | Yankees      | mlb-nyy | :bomb:                 | :bomb:              | :bomb:              | :bomb:                                 |
 | Oakland        | Athletics    | mlb-oak | :elephant:             | :elephant:          | :elephant:          |                                        |
 | Philadelphia   | Phillies     | mlb-phi | :bell:                 | :bell:              | :bell:              |                                        |
-| Pittsburgh     | Pirates      | mlb-pit | :skull_and_crossbones: | :tomato:            | :tomato:            | :skull_and_crossbones: :tomato:        |
+| Pittsburgh     | Pirates      | mlb-pit | :skull_and_crossbones: | :skull:             | :skull:             | :skull_and_crossbones: :skull:         |
 | San Diego      | Padres       | mlb-sd  | :surfer:               | :surfer:            | :surfer:            | :ocean:                                |
 | San Francisco  | Giants       | mlb-sf  | :bridge_at_night:      | :bridge_at_night:   | :bridge_at_night:   |                                        |
 | Seattle        | Mariners     | mlb-sea | :ship:                 | :ship:              | :ship:              |                                        |
